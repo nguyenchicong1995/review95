@@ -124,6 +124,12 @@ function getData(){
 	B08FXT36RD: {US: "https://amzn.to/39ZCjn5",CA: "",UK: ""},
 	B08FXT36RD: {US: "https://amzn.to/39ZCjn5",CA: "",UK: ""},
 	B08FXT36RD: {US: "https://amzn.to/39ZCjn5",CA: "",UK: ""},
+	B08FXT36RD: {US: "https://amzn.to/39ZCjn5",CA: "",UK: ""},
+	B08G4FWXJK: {US: "https://amzn.to/3nf8T8k",CA: "",UK: ""},
+	B08FXT36RD: {US: "https://amzn.to/39ZCjn5",CA: "",UK: ""},
+	B08FXT36RD: {US: "https://amzn.to/39ZCjn5",CA: "",UK: ""},
+	B08FXT36RD: {US: "https://amzn.to/39ZCjn5",CA: "",UK: ""},
+	B08FXT36RD: {US: "https://amzn.to/39ZCjn5",CA: "",UK: ""},
 	B08FXT36RD: {US: "https://amzn.to/39ZCjn5",CA: "",UK: ""}
 	}
 	return dataAMZ;
