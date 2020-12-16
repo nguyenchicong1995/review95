@@ -130,7 +130,8 @@ function getData(){
 	B08FXT36RD: {US: "https://amzn.to/39ZCjn5",CA: "",UK: ""},
 	B08FXT36RD: {US: "https://amzn.to/39ZCjn5",CA: "",UK: ""},
 	B08FXT36RD: {US: "https://amzn.to/39ZCjn5",CA: "",UK: ""},
-	B08FXT36RD: {US: "https://amzn.to/39ZCjn5",CA: "",UK: ""}
+	B08FXT36RD: {US: "https://amzn.to/39ZCjn5",CA: "",UK: ""},
+	B0863TXGM3: {US: "https://amzn.to/3gTcWEP",CA: "",UK: ""}
 	}
 	return dataAMZ;
 }
