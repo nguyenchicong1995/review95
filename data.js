@@ -55,7 +55,7 @@ function getData(){
 			B081Z53L9T: {href: "https://amzn.to/2HNBB0B",nameProduct: `AstroAI Electric Cooler 26 Quarts/ 24 Liter`,image: '',summary: ``,slug: ""},
 			B07YKWFDQ7: {href: "https://amzn.to/31YdBPg",nameProduct: `Husqvarna 967979301 HB32 2.5 GPM 3200 PSI `,image: '',summary: ``,slug: ""},
 			B07GJBRKPC: {href: "https://amzn.to/3mBXpep",nameProduct: `Honeywell Ceiling Fans 50609-01 Xerxes Ceiling Fan, 62, Oil Rubbed Bronze`,image: '',summary: ``,slug: ""},
-			B07L6Q2GSW: {href: "https://amzn.to/3jKKXXM",nameProduct: `Hunter Fan Company Hunter 59453 Transitional 44``Ceiling Fan from Minimus collection finish`,image: '',summary: ``,slug: ""},
+			B07L6Q2GSW: {href: "https://amzn.to/3jKKXXM",nameProduct: `Hunter Fan Company Hunter 59453 Transitional 44 Ceiling Fan from Minimus collection finish`,image: '',summary: ``,slug: ""},
 			B01M7M9NXX: {href: "https://amzn.to/3jFrEPO",nameProduct: `Zinus Shalini Upholstered Platform Bed / Mattress Foundation / Wood Slat Support / No Box Spring Needed / Easy Assembly, Queen`,image: '',summary: ``,slug: ""},
 			B07LBRDCTT: {href: "https://amzn.to/31W9jHX",nameProduct: `HONBAY Convertible Sectional Sofa Couch, L-Shaped Couch with Modern Linen Fabric for Small Space Dark Grey`,image: '',summary: ``,slug: ""},
 			B07WTTCTBF: {href: "https://amzn.to/3jI4yIn",nameProduct: `Amazon Brand - 28 Palms Men's Lifeguard Sun Hat`,image: '',summary: ``,slug: ""},
