@@ -470,7 +470,32 @@ function getData(){
 			B089W2MGD6: {href: "https://amzn.to/3kjfMaf",nameProduct: `Lenovo Flex 5 AMD Ryzen 7 4700U`,image: '',summary: ``,slug: ""},
 			B0886L3CFV: {href: "https://amzn.to/3ARVTN2",nameProduct: `HP Stream 11.6-inch HD Laptop`,image: '',summary: ``,slug: ""},
 			B08KH3FH15: {href: "https://amzn.to/2TVgoI0",nameProduct: `HP Pavilion x360 14 2-in-1 Laptop`,image: '',summary: ``,slug: ""},
-			B08KGYDR16: {href: "https://amzn.to/3e6Y3i3",nameProduct: `HP Pavilion 15 Laptop`,image: '',summary: ``,slug: ""}
+			B08KGYDR16: {href: "https://amzn.to/3e6Y3i3",nameProduct: `HP Pavilion 15 Laptop`,image: '',summary: ``,slug: ""},
+			B07FX73Y7H: {href: "https://amzn.to/3eBhUX9",nameProduct: `Ninja Hot and Cold Brewed System, Auto-iQ Tea and Coffee Maker`,image: '',summary: ``,slug: ""},
+			B08YKHYCPW: {href: "https://amzn.to/3zv4C6D",nameProduct: `Lenovo IdeaPad 1 14 Laptop`,image: '',summary: ``,slug: ""},
+			B08H4YTTLP: {href: "https://amzn.to/3Bopyh6",nameProduct: `ASUS VivoBook 15 F515 Laptop`,image: '',summary: ``,slug: ""},
+			B07K85LXBK: {href: "https://amzn.to/2UWptR5",nameProduct: `Tovala Gen 2 Smart Steam Oven`,image: '',summary: ``,slug: ""},
+			B08DVCNYJC: {href: "https://amzn.to/3BkLJ83",nameProduct: `Bose QuietComfort 35 Series 2 Gaming Headset`,image: '',summary: ``,slug: ""},
+			B08TZRP19J: {href: "https://amzn.to/3irrGfn",nameProduct: `Bang & Olufsen Beoplay HX - Headphones `,image: '',summary: ``,slug: ""},
+			B08L9V2YX1: {href: "https://amzn.to/3hTpOgg",nameProduct: `ULTIMATE EARS FITS True Wireless`,image: '',summary: ``,slug: ""},
+			B07VR22832: {href: "https://amzn.to/3rmGWOC",nameProduct: `Farberware Dishwasher`,image: '',summary: ``,slug: ""},
+			B07VMTF2Y4: {href: "https://amzn.to/3Bpx0IM",nameProduct: `Farberware Professional Dishwasher`,image: '',summary: ``,slug: ""},
+			B07N6J8MQQ: {href: "https://amzn.to/2Uup9cr",nameProduct: `Breville the Q Countertop Blender`,image: '',summary: ``,slug: ""},
+			B072JWYJMC: {href: "https://amzn.to/3kyyQ4g",nameProduct: `Jabra Evolve 75 UC Stereo`,image: '',summary: ``,slug: ""},
+			B089N3YRZN: {href: "https://amzn.to/3kBm6d6",nameProduct: `GE Appliances 13,500 BTU Air conditioners`,image: '',summary: ``,slug: ""},
+			B0868WSQLM: {href: "https://amzn.to/3rnQ3yT",nameProduct: `Friedrich Chill Premier Smart Air Conditioner`,image: '',summary: ``,slug: ""},
+			B08TBWFR5M: {href: "https://amzn.to/2W2Mani",nameProduct: `Robot Vacuum Cleaner Uoni V980Plus`,image: '',summary: ``,slug: ""},
+			B00R43I4EU: {href: "https://amzn.to/2Uoe50C",nameProduct: `Miele Complete C3 Marin Canister Vacuum Cleaner`,image: '',summary: ``,slug: ""},
+			B085D4MFS8: {href: "https://amzn.to/3eBLUCc",nameProduct: `iRobot Roomba 692 Robot Vacuum`,image: '',summary: ``,slug: ""},
+			B08M3B9754: {href: "https://amzn.to/3hRI1es",nameProduct: `Insta360 ONE X2 360 Camera`,image: '',summary: ``,slug: ""},
+			B07RC8HPHL: {href: "https://amzn.to/3iwEOzQ",nameProduct: `OLYMPUS Tough TG-6 Waterproof Camera`,image: '',summary: ``,slug: ""},
+			B01DLPUWL2: {href: "https://amzn.to/3eCccUI",nameProduct: `BLACK+DECKER BPACT08WT Portable Air Conditioner`,image: '',summary: ``,slug: ""},
+			B07RMZV7W4: {href: "https://amzn.to/3eC9COE",nameProduct: `SereneLife SLPAC Portable Air Conditioner`,image: '',summary: ``,slug: ""},
+			B08R6H7GVF: {href: "https://amzn.to/3eBk5Kd",nameProduct: `Hisense Portable Air Conditioner`,image: '',summary: ``,slug: ""},
+			B08QRD11HN: {href: "https://amzn.to/3BltwHs",nameProduct: `Litheli 20V 13-Inch Cordless Brushless Lawn Mower`,image: '',summary: ``,slug: ""},
+			B07N2XP5Z1: {href: "https://amzn.to/3BksVFP",nameProduct: `WORX WG384 40V Power Share Chainsaw`,image: '',summary: ``,slug: ""},
+			B08YJTNNZT: {href: "https://amzn.to/3iua42z",nameProduct: `LawnMaster   Lawn Mower`,image: '',summary: ``,slug: ""},
+			B01EJLBZSG: {href: "https://amzn.to/36OOnEU",nameProduct: `CMC-Classic Model Cars Mercedes-Benz W154 Seaman 16`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
