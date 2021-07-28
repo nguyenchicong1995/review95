@@ -495,7 +495,32 @@ function getData(){
 			B08QRD11HN: {href: "https://amzn.to/3BltwHs",nameProduct: `Litheli 20V 13-Inch Cordless Brushless Lawn Mower`,image: '',summary: ``,slug: ""},
 			B07N2XP5Z1: {href: "https://amzn.to/3BksVFP",nameProduct: `WORX WG384 40V Power Share Chainsaw`,image: '',summary: ``,slug: ""},
 			B08YJTNNZT: {href: "https://amzn.to/3iua42z",nameProduct: `LawnMaster   Lawn Mower`,image: '',summary: ``,slug: ""},
-			B01EJLBZSG: {href: "https://amzn.to/36OOnEU",nameProduct: `CMC-Classic Model Cars Mercedes-Benz W154 Seaman 16`,image: '',summary: ``,slug: ""}
+			B01EJLBZSG: {href: "https://amzn.to/36OOnEU",nameProduct: `CMC-Classic Model Cars Mercedes-Benz W154 Seaman 16`,image: '',summary: ``,slug: ""},
+			B07VR22832: {href: "https://amzn.to/3f3atrG",nameProduct: `Farberware Portable Dishwasher `,image: '',summary: ``,slug: ""},
+			B086Z3J8ZC: {href: "https://amzn.to/3xeyWAx",nameProduct: `SAMSUNG Galaxy Tab S6 Lite`,image: '',summary: ``,slug: ""},
+			B07HY8X46F: {href: "https://amzn.to/3zKgykV",nameProduct: `Windows 10 Tablet Windows 10 Fusion5`,image: '',summary: ``,slug: ""},
+			B0192E2KCK: {href: "https://amzn.to/3rMxHaY",nameProduct: `Daron Skymarks Airbus House Colors A380-800 Airplane Model`,image: '',summary: ``,slug: ""},
+			B07D9MRHP7: {href: "https://amzn.to/3l4XSZ9",nameProduct: `Whynter CDW- Energy Star Dishwasher`,image: '',summary: ``,slug: ""},
+			B00VGGVQCI: {href: "https://amzn.to/3BRTbYA",nameProduct: `Breville Grind Control Coffee Maker`,image: '',summary: ``,slug: ""},
+			B00YEYKNUK: {href: "https://amzn.to/3f5slSN",nameProduct: `OXO BREW Conical Burr Coffee Grinder`,image: '',summary: ``,slug: ""},
+			B00YEYKK8U: {href: "https://amzn.to/3l3DQOq",nameProduct: `OXO Coffeemaker`,image: '',summary: ``,slug: ""},
+			B00NGV49M0: {href: "https://amzn.to/2WzfvpP",nameProduct: `Ninja Nutri Blender`,image: '',summary: ``,slug: ""},
+			B018SW6K7I: {href: "https://amzn.to/2VenUOz",nameProduct: `Panda PAN60SF 3.5 cu.ft Compact Portable Laundry Dryer`,image: '',summary: ``,slug: ""},
+			B07PFVKXYD: {href: "https://amzn.to/3x5lXkF",nameProduct: `MIDEA 10,000 BTU EasyCool Window Air Conditioner`,image: '',summary: ``,slug: ""},
+			B08B4L4CGG: {href: "https://amzn.to/3lb8HZL",nameProduct: `COMFEE' Portable Washing Machine`,image: '',summary: ``,slug: ""},
+			B08622KF4Z: {href: "https://amzn.to/3C0dLpM",nameProduct: `Panda PAN6360W Portable Washing Machine`,image: '',summary: ``,slug: ""},
+			B0924JVC6C: {href: "https://amzn.to/2UZSjjZ",nameProduct: `New BiTECOOL CosBook Laptop`,image: '',summary: ``,slug: ""},
+			B086Z3J8ZC: {href: "https://amzn.to/3ygZVgw",nameProduct: `SAMSUNG Galaxy Tab S6 Lite`,image: '',summary: ``,slug: ""},
+			B08YKGZF7P: {href: "https://amzn.to/2UOse7v",nameProduct: `HP Chromebook 14 Laptop`,image: '',summary: ``,slug: ""},
+			B006UKLUFS: {href: "https://amzn.to/2VfqaoX",nameProduct: `Cuisinart ICE-100 Compressor Ice Cream `,image: '',summary: ``,slug: ""},
+			B00004RDF0: {href: "https://amzn.to/3l3eeRZ",nameProduct: `Lello 4080 Musso Lussino Ice Cream Maker`,image: '',summary: ``,slug: ""},
+			B01FXMW4AS: {href: "https://amzn.to/3zLzcJ0",nameProduct: `Whynter ICM-201SB Upright Automatic Ice Cream Maker`,image: '',summary: ``,slug: ""},
+			B08D96HXH7: {href: "https://amzn.to/3l2EOuj",nameProduct: `BODEGA 12 Volt Car Refrigerator`,image: '',summary: ``,slug: ""},
+			B07P8QTFRC: {href: "https://amzn.to/3725svk",nameProduct: `DEWALT 12-Inch Miter Saw`,image: '',summary: ``,slug: ""},
+			B083QZ5J2C: {href: "https://amzn.to/3BMMgzL",nameProduct: `COSTWAY Portable Car Refrigerator`,image: '',summary: ``,slug: ""},
+			B07G3ZNK4Y: {href: "https://amzn.to/3xb0Xcu",nameProduct: `Vector Robot by Anki`,image: '',summary: ``,slug: ""},
+			B06XT3F6Q8: {href: "https://amzn.to/3rMzpsU",nameProduct: `UBTECH Alpha 1 Pro Humanoid Robot`,image: '',summary: ``,slug: ""},
+			B0762B4WHV: {href: "https://amzn.to/3BMxpp0",nameProduct: `Anki Cozmo`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
