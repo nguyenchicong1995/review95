@@ -520,7 +520,31 @@ function getData(){
 			B083QZ5J2C: {href: "https://amzn.to/3BMMgzL",nameProduct: `COSTWAY Portable Car Refrigerator`,image: '',summary: ``,slug: ""},
 			B07G3ZNK4Y: {href: "https://amzn.to/3xb0Xcu",nameProduct: `Vector Robot by Anki`,image: '',summary: ``,slug: ""},
 			B06XT3F6Q8: {href: "https://amzn.to/3rMzpsU",nameProduct: `UBTECH Alpha 1 Pro Humanoid Robot`,image: '',summary: ``,slug: ""},
-			B0762B4WHV: {href: "https://amzn.to/3BMxpp0",nameProduct: `Anki Cozmo`,image: '',summary: ``,slug: ""}
+			B0762B4WHV: {href: "https://amzn.to/3BMxpp0",nameProduct: `Anki Cozmo`,image: '',summary: ``,slug: ""},
+			B08QYJJS9B: {href: "https://amzn.to/3Au8Hby",nameProduct: `Coredy R580 Robot Vacuum Cleaner`,image: '',summary: ``,slug: ""},
+			B000A7NN4I: {href: "https://amzn.to/2X8i8yS",nameProduct: `Zojirushi NS-ZCC18 Neuro Fuzzy Rice Cooker`,image: '',summary: ``,slug: ""},
+			B001KBY9M8: {href: "https://amzn.to/3AnMr34",nameProduct: `Oster 6-Cup Rice Cooker with Steamer`,image: '',summary: ``,slug: ""},
+			B00007J5U7: {href: "https://amzn.to/2VBD0hT",nameProduct: `Zojirushi Neuro Fuzzy Rice Cooker`,image: '',summary: ``,slug: ""},
+			B07VGJMB9B: {href: "https://amzn.to/3sbiTCL",nameProduct: `Tesvor Robot Vacuum Cleaner`,image: '',summary: ``,slug: ""},
+			B091FDX96H: {href: "https://amzn.to/3Aux09g",nameProduct: `TRIFO Robot Vacuum`,image: '',summary: ``,slug: ""},
+			B08VKNVDDR: {href: "https://amzn.to/3CMIo2m",nameProduct: `Acer Aspire 5 Slim Laptop`,image: '',summary: ``,slug: ""},
+			B086226DDB: {href: "https://amzn.to/3jDYOkK",nameProduct: `Lenovo Flex 5 14" Laptop`,image: '',summary: ``,slug: ""},
+			B07R6P77HM: {href: "https://amzn.to/3fTOynj",nameProduct: `OEMTOOLS Commercial Fan`,image: '',summary: ``,slug: ""},
+			B08221VG7G: {href: "https://amzn.to/3ArcFSa",nameProduct: `SINGER Intelligent 36T1 Steam Press`,image: '',summary: ``,slug: ""},
+			B07D528W98: {href: "https://amzn.to/3AyeCMC",nameProduct: `YOSUDA Indoor Cycling Bike`,image: '',summary: ``,slug: ""},
+			B07PMD1WG8: {href: "https://amzn.to/3fUc186",nameProduct: `Cyclace Exercise Bike`,image: '',summary: ``,slug: ""},
+			B08JCLKHHW: {href: "https://amzn.to/3iBplzR",nameProduct: `RENPHO AI-Powered Exercise Bike`,image: '',summary: ``,slug: ""},
+			B07S85TPLG: {href: "https://amzn.to/3AyeZH0",nameProduct: `Ninja FD401 Deluxe Pressure Cooker`,image: '',summary: ``,slug: ""},
+			B07V9PC6XT: {href: "https://amzn.to/3lSFjri",nameProduct: `Brother ST150HDH Sewing Machine`,image: '',summary: ``,slug: ""},
+			B01J4HIY2K: {href: "https://amzn.to/3CCehKR",nameProduct: `Janome Sewing Machine`,image: '',summary: ``,slug: ""},
+			B019BYTIGW: {href: "https://amzn.to/3lRBdQd",nameProduct: `AZOOU Race Timing Clock Timer`,image: '',summary: ``,slug: ""},
+			B08P48MZFS: {href: "https://amzn.to/3jCeh4E",nameProduct: `Bose Soundlink Mini II Special Edition`,image: '',summary: ``,slug: ""},
+			B08P48MZFS: {href: "https://amzn.to/3jCeh4E",nameProduct: `Bose Soundlink Mini II Special Edition`,image: '',summary: ``,slug: ""},
+			B094T6NYV9: {href: "https://amzn.to/2VMeRoL",nameProduct: `Sony SRS-XG500 X-Series Bluetooth Speaker`,image: '',summary: ``,slug: ""},
+			B07N76WN9Z: {href: "https://amzn.to/3jLDPfQ",nameProduct: `Generac 7676 GP8000E Portable Generator`,image: '',summary: ``,slug: ""},
+			B08DP2BQ7T: {href: "https://amzn.to/3yD43HR",nameProduct: `1:14 Remote Control Full Metal Bulldozer Toy`,image: '',summary: ``,slug: ""},
+			B0923CMNS5: {href: "https://amzn.to/2XlBP6J",nameProduct: `HUINA 1580 V4 Excavator RC`,image: '',summary: ``,slug: ""},
+			B08HR68MQZ: {href: "https://amzn.to/3jMFiT0",nameProduct: `Corsair K100 RGB Mechanical Gaming Keyboard `,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
