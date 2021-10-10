@@ -549,7 +549,22 @@ function getData(){
 			B01N9K9N33: {href: "https://amzn.to/3DkreZj",nameProduct: `Thrustmaster TMX PRO Racing Wheel`,image: '',summary: ``,slug: ""},
 			B01D3FOCVQ: {href: "https://amzn.to/3Bolq0d",nameProduct: `LG LW1216HR Window-Mounted Air Conditioner`,image: '',summary: ``,slug: ""},
 			B087N4LQPN: {href: "https://amzn.to/3DjfdTR",nameProduct: `Alienware 240Hz Gaming Monitor`,image: '',summary: ``,slug: ""},
-			B08FBK2DK5: {href: "https://amzn.to/3FmiQdL",nameProduct: `CyberpowerPC Gamer Xtreme VR Gaming PC`,image: '',summary: ``,slug: ""}
+			B08FBK2DK5: {href: "https://amzn.to/3FmiQdL",nameProduct: `CyberpowerPC Gamer Xtreme VR Gaming PC`,image: '',summary: ``,slug: ""},
+			B08BF4CZSV: {href: "https://amzn.to/3oLqE2L",nameProduct: `HP 24mh FHD Monitor - Computer Monitor`,image: '',summary: ``,slug: ""},
+			B074JDN6P4: {href: "https://amzn.to/2YDXBDz",nameProduct: `Toyota Sprinter Trueno AE86 1/18 Model Car `,image: '',summary: ``,slug: ""},
+			B07XKWCKCY: {href: "https://amzn.to/3Ar8KEI",nameProduct: `Smeg KLF03GOUS Electric Kettle`,image: '',summary: ``,slug: ""},
+			B07QM2H5TR: {href: "https://amzn.to/3BIfdN3",nameProduct: `Comfort Zone CZ230ER Heaters`,image: '',summary: ``,slug: ""},
+			B00C1WRG7K: {href: "https://amzn.to/3FAiJeH",nameProduct: `Ultra Grind+ Gold Wet Grinder`,image: '',summary: ``,slug: ""},
+			B07BLZX73S: {href: "https://amzn.to/2YAxBZc",nameProduct: `Bose S1 Pro Portable Bluetooth Speaker `,image: '',summary: ``,slug: ""},
+			B07F39ZKK9: {href: "https://amzn.to/2Yygxnm",nameProduct: `Bose Surround Speakers`,image: '',summary: ``,slug: ""},
+			B097PG8TYZ: {href: "https://amzn.to/3FyiuRe",nameProduct: `MOONCOOL Mountain Bikes`,image: '',summary: ``,slug: ""},
+			B07D528W98: {href: "https://amzn.to/3oTx7ZD",nameProduct: `YOSUDA Indoor Cycling Bike`,image: '',summary: ``,slug: ""},
+			B07PMD1WG8: {href: "https://amzn.to/3DtJqQ6",nameProduct: `Cyclace Exercise Bike Stationary`,image: '',summary: ``,slug: ""},
+			B07NQKSK64: {href: "https://amzn.to/3mCeGWl",nameProduct: `Panasonic ER-GP82 Hair Clipper`,image: '',summary: ``,slug: ""},
+			B08156NWQ2: {href: "https://amzn.to/3mCePcA",nameProduct: `Andis 12470 Blade Hair Clipper`,image: '',summary: ``,slug: ""},
+			B07D2M1SGB: {href: "https://amzn.to/3oODj52",nameProduct: `Andis 79005 Supra ZR II Blade Clipper `,image: '',summary: ``,slug: ""},
+			B099PWQZ8R: {href: "https://amzn.to/3Dt5Q4c",nameProduct: `ASUS ROG Strix G17 Gaming Laptop`,image: '',summary: ``,slug: ""},
+			B08N5M7S6K: {href: "https://amzn.to/3FB3qSG",nameProduct: `Apple MacBook Air Laptop`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
