@@ -564,7 +564,22 @@ function getData(){
 			B08156NWQ2: {href: "https://amzn.to/3mCePcA",nameProduct: `Andis 12470 Blade Hair Clipper`,image: '',summary: ``,slug: ""},
 			B07D2M1SGB: {href: "https://amzn.to/3oODj52",nameProduct: `Andis 79005 Supra ZR II Blade Clipper `,image: '',summary: ``,slug: ""},
 			B099PWQZ8R: {href: "https://amzn.to/3Dt5Q4c",nameProduct: `ASUS ROG Strix G17 Gaming Laptop`,image: '',summary: ``,slug: ""},
-			B08N5M7S6K: {href: "https://amzn.to/3FB3qSG",nameProduct: `Apple MacBook Air Laptop`,image: '',summary: ``,slug: ""}
+			B08N5M7S6K: {href: "https://amzn.to/3FB3qSG",nameProduct: `Apple MacBook Air Laptop`,image: '',summary: ``,slug: ""},
+			B07DV4T9ND: {href: "https://amzn.to/3j1KW4i",nameProduct: `NESCAFÉ Dolce Gusto Coffee Machine`,image: '',summary: ``,slug: ""},
+			B08XMB3SGW: {href: "https://amzn.to/3aDsGty",nameProduct: `Fire HD 10 Plus tablet`,image: '',summary: ``,slug: ""},
+			B07KYN589K: {href: "https://amzn.to/3BM1QeA",nameProduct: `Google Nest Learning Thermostat`,image: '',summary: ``,slug: ""},
+			B08W74J4CH: {href: "https://amzn.to/2YNY0DE",nameProduct: `All-new Ring Video Doorbell 4`,image: '',summary: ``,slug: ""},
+			B087792CQT: {href: "https://amzn.to/3FWr8cD",nameProduct: `ViewSonic 15.6 Inch 1080p Portable Monitor`,image: '',summary: ``,slug: ""},
+			B07NSSWPC5: {href: "https://amzn.to/3AMKNba",nameProduct: `ASTRO Gaming A40 TR Wired Headset`,image: '',summary: ``,slug: ""},
+			B08746M1NX: {href: "https://amzn.to/3p5L7zk",nameProduct: `Waterdrop RO Osmosis Water Filtration`,image: '',summary: ``,slug: ""},
+			B08GZKZF87: {href: "https://amzn.to/3ARX7qF",nameProduct: `Microsoft Surface Laptop Go`,image: '',summary: ``,slug: ""},
+			B0725K9WQG: {href: "https://amzn.to/2YPSJuD",nameProduct: `EGO Power+ CS1604 Cordless Chainsaw `,image: '',summary: ``,slug: ""},
+			B0863TXGM3: {href: "https://amzn.to/3p1xbWZ",nameProduct: `Sony WH-1000XM4 Wireless Headphones`,image: '',summary: ``,slug: ""},
+			B08GW982QS: {href: "https://amzn.to/3ALnaPT",nameProduct: `TCL 65-inch 4K UHD HDR Smart Roku TV`,image: '',summary: ``,slug: ""},
+			B09BZ9KXY3: {href: "https://amzn.to/3mWL9qH",nameProduct: `Byootique 4 in1 Makeup Case Cosmetic Box`,image: '',summary: ``,slug: ""},
+			B01ALBMIEI: {href: "https://amzn.to/3lCX8dA",nameProduct: `Giantex Portable Mini Washing Machine`,image: '',summary: ``,slug: ""},
+			B004UJKKI4: {href: "https://amzn.to/3p3RdAi",nameProduct: `Waring Commercial MX1200XTX 3.5 HP Blender`,image: '',summary: ``,slug: ""},
+			B093DY2WY4: {href: "https://amzn.to/3vjDir2",nameProduct: `Moccamaster 53935 KBGV Coffee Maker`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
