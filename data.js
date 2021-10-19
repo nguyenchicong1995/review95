@@ -579,7 +579,22 @@ function getData(){
 			B09BZ9KXY3: {href: "https://amzn.to/3mWL9qH",nameProduct: `Byootique 4 in1 Makeup Case Cosmetic Box`,image: '',summary: ``,slug: ""},
 			B01ALBMIEI: {href: "https://amzn.to/3lCX8dA",nameProduct: `Giantex Portable Mini Washing Machine`,image: '',summary: ``,slug: ""},
 			B004UJKKI4: {href: "https://amzn.to/3p3RdAi",nameProduct: `Waring Commercial MX1200XTX 3.5 HP Blender`,image: '',summary: ``,slug: ""},
-			B093DY2WY4: {href: "https://amzn.to/3vjDir2",nameProduct: `Moccamaster 53935 KBGV Coffee Maker`,image: '',summary: ``,slug: ""}
+			B093DY2WY4: {href: "https://amzn.to/3vjDir2",nameProduct: `Moccamaster 53935 KBGV Coffee Maker`,image: '',summary: ``,slug: ""},
+			B08L41KGBH: {href: "https://amzn.to/2Z0juxe",nameProduct: `Apple Watch Series 6`,image: '',summary: ``,slug: ""},
+			B01DTYAZO4: {href: "https://amzn.to/3DTOYUp",nameProduct: `BISSELL Crosswave Vacuum Cleaner`,image: '',summary: ``,slug: ""},
+			B07QNM91NQ: {href: "https://amzn.to/3aMZ114",nameProduct: `iRobot Braava Jet M6 Robot Mop`,image: '',summary: ``,slug: ""},
+			B082LZKYFL: {href: "https://amzn.to/3lRIbUW",nameProduct: `NETGEAR Orbi Wifi 6 System`,image: '',summary: ``,slug: ""},
+			B091ZHW35L: {href: "https://amzn.to/30vuG56",nameProduct: `Cuisinart SS-15W 12-Cup Coffeemaker`,image: '',summary: ``,slug: ""},
+			B091GGZT1S: {href: "https://amzn.to/2ZbXKhE",nameProduct: `MSI Stealth 15M Gaming Laptop`,image: '',summary: ``,slug: ""},
+			B07QQ7PHJJ: {href: "https://amzn.to/3DODwcy",nameProduct: `Bose Surround Speakers 700`,image: '',summary: ``,slug: ""},
+			B01DQ19B1S: {href: "https://amzn.to/3lS5HRD",nameProduct: `DEWALT 20V MAX XR Cordless Drill`,image: '',summary: ``,slug: ""},
+			B0846NH2PS: {href: "https://amzn.to/3DTsGSO",nameProduct: `Sony X950H 65-inch TV`,image: '',summary: ``,slug: ""},
+			B08YKG5K7F: {href: "https://amzn.to/3AWbfz5",nameProduct: `Lenovo Legion 5 15 Gaming Laptop`,image: '',summary: ``,slug: ""},
+			B0873LVX4P: {href: "https://amzn.to/3aQnPFj",nameProduct: `Bang & Olufsen Beoplay E8 Earphones`,image: '',summary: ``,slug: ""},
+			B07X43B6FD: {href: "https://amzn.to/3pdAo5V",nameProduct: `Sony Alpha A6600 Mirrorless Camera`,image: '',summary: ``,slug: ""},
+			B07GSH7FGX: {href: "https://amzn.to/3jfhSGN",nameProduct: `Cricut Maker`,image: '',summary: ``,slug: ""},
+			B08L3X9ZZX: {href: "https://amzn.to/2Z57jys",nameProduct: `Ubiquiti UniFi Protect G4 Doorbell`,image: '',summary: ``,slug: ""},
+			B09973TGP9: {href: "https://amzn.to/3BYoccR",nameProduct: `Samsung Galaxy Tab S7 FE`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
