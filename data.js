@@ -594,7 +594,22 @@ function getData(){
 			B07X43B6FD: {href: "https://amzn.to/3pdAo5V",nameProduct: `Sony Alpha A6600 Mirrorless Camera`,image: '',summary: ``,slug: ""},
 			B07GSH7FGX: {href: "https://amzn.to/3jfhSGN",nameProduct: `Cricut Maker`,image: '',summary: ``,slug: ""},
 			B08L3X9ZZX: {href: "https://amzn.to/2Z57jys",nameProduct: `Ubiquiti UniFi Protect G4 Doorbell`,image: '',summary: ``,slug: ""},
-			B09973TGP9: {href: "https://amzn.to/3BYoccR",nameProduct: `Samsung Galaxy Tab S7 FE`,image: '',summary: ``,slug: ""}
+			B09973TGP9: {href: "https://amzn.to/3BYoccR",nameProduct: `Samsung Galaxy Tab S7 FE`,image: '',summary: ``,slug: ""},
+			B08BP59X75: {href: "https://amzn.to/3E4sNe5",nameProduct: `Segway Ninebot E22 E45 Electric Kick Scooter`,image: '',summary: ``,slug: ""},
+			B07DVY8H3F: {href: "https://amzn.to/30RkrIF",nameProduct: `Pado Ozen 500 Vacuum Blender`,image: '',summary: ``,slug: ""},
+			B0874XJYW8: {href: "https://amzn.to/3CbmUeI",nameProduct: `Toshiba 43LF621U21 43-inch Smart`,image: '',summary: ``,slug: ""},
+			B00M4LWXI0: {href: "https://amzn.to/3E3fHOo",nameProduct: `Apple iMac`,image: '',summary: ``,slug: ""},
+			B08Z3DYBMC: {href: "https://amzn.to/30VGNsF",nameProduct: `DJI Air 2S - Drone Quadcopter UAV`,image: '',summary: ``,slug: ""},
+			B07TC72FP6: {href: "https://amzn.to/3DXjmxc",nameProduct: `Champion 100402 2000-Watt Portable Generator`,image: '',summary: ``,slug: ""},
+			B09FTJYV1X: {href: "https://amzn.to/3E9xDXs",nameProduct: `Snow Joe 24V-X2 iON+Snow Blower Kit`,image: '',summary: ``,slug: ""},
+			B085Z35GY6: {href: "https://amzn.to/3psxjiD",nameProduct: `TP-Link Deco WiFi 6 Mesh System`,image: '',summary: ``,slug: ""},
+			B07P97JJNZ: {href: "https://amzn.to/3AZWNpK",nameProduct: `Miele Classic C1 Canister Vacuum`,image: '',summary: ``,slug: ""},
+			B0976YH2QF: {href: "https://amzn.to/3ngtjz3",nameProduct: `VIOMI Robot Vacuum Cleaner`,image: '',summary: ``,slug: ""},
+			B0756GB78C: {href: "https://amzn.to/3m4t5vt",nameProduct: `Bose QuietComfort 35 II Bluetooth Headphones`,image: '',summary: ``,slug: ""},
+			B01M0AGJIQ: {href: "https://amzn.to/3aZKBe7",nameProduct: `Duraflame Infrared Electric Fireplace Stove`,image: '',summary: ``,slug: ""},
+			B08ZYYC9G4: {href: "https://amzn.to/30SACFC",nameProduct: `ASUS ZenBook 14 Ultra-Slim Laptop`,image: '',summary: ``,slug: ""},
+			B07H7CZ6BZ: {href: "https://amzn.to/3aZKT4H",nameProduct: `Marshall Kilburn II Bluetooth Speaker`,image: '',summary: ``,slug: ""},
+			B085RFFC9Q: {href: "https://amzn.to/3C5EGjq",nameProduct: `Logitech G915 TKL Tenkeyless Wireless Keyboard`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
