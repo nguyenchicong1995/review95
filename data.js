@@ -609,7 +609,22 @@ function getData(){
 			B01M0AGJIQ: {href: "https://amzn.to/3aZKBe7",nameProduct: `Duraflame Infrared Electric Fireplace Stove`,image: '',summary: ``,slug: ""},
 			B08ZYYC9G4: {href: "https://amzn.to/30SACFC",nameProduct: `ASUS ZenBook 14 Ultra-Slim Laptop`,image: '',summary: ``,slug: ""},
 			B07H7CZ6BZ: {href: "https://amzn.to/3aZKT4H",nameProduct: `Marshall Kilburn II Bluetooth Speaker`,image: '',summary: ``,slug: ""},
-			B085RFFC9Q: {href: "https://amzn.to/3C5EGjq",nameProduct: `Logitech G915 TKL Tenkeyless Wireless Keyboard`,image: '',summary: ``,slug: ""}
+			B085RFFC9Q: {href: "https://amzn.to/3C5EGjq",nameProduct: `Logitech G915 TKL Tenkeyless Wireless Keyboard`,image: '',summary: ``,slug: ""},
+			B07SSVH7T1: {href: "https://amzn.to/3jvVLvL",nameProduct: `Calphalon Temp IQ Espresso Machine`,image: '',summary: ``,slug: ""},
+			B07DLX26BB: {href: "https://amzn.to/3b88AYq",nameProduct: `Epson FastFoto FF-680W Photo Scanning System`,image: '',summary: ``,slug: ""},
+			B092HXGMJC: {href: "https://amzn.to/2ZhjXdS",nameProduct: `Vacuum Food Sealer Machine`,image: '',summary: ``,slug: ""},
+			B07VMTF2Y4: {href: "https://amzn.to/3EaRGFg",nameProduct: `Farberware Portable Countertop Dishwasher`,image: '',summary: ``,slug: ""},
+			B08XX4P7LB: {href: "https://amzn.to/3jxtnsZ",nameProduct: `Samsung Galaxy A52 5G`,image: '',summary: ``,slug: ""},
+			B082S4XGF7: {href: "https://amzn.to/3jxw6mm",nameProduct: `Kyng 37" Electric Skateboard`,image: '',summary: ``,slug: ""},
+			B08KSM367Z: {href: "https://amzn.to/3vD3a0Y",nameProduct: `Backfire G2 Black Electric Skateboard`,image: '',summary: ``,slug: ""},
+			B09J3KLZRJ: {href: "https://amzn.to/3jvWoFD",nameProduct: `PowerSmart Lawn Mower`,image: '',summary: ``,slug: ""},
+			B08FPBV4VX: {href: "https://amzn.to/3puQMzh",nameProduct: `Champion 4250-Watt Generator`,image: '',summary: ``,slug: ""},
+			B08Y3VRKML: {href: "https://amzn.to/3m94Hcd",nameProduct: `Clean-tech Air Purifiers`,image: '',summary: ``,slug: ""},
+			B08P6MRCQ7: {href: "https://amzn.to/3vC6Hgc",nameProduct: `CHUWI HeroBook Plus 15.6 inch`,image: '',summary: ``,slug: ""},
+			B08XPC3WFQ: {href: "https://amzn.to/3CfGSoE",nameProduct: `ASUS TUF Dash 15 Gaming Laptop`,image: '',summary: ``,slug: ""},
+			B075713NNL: {href: "https://amzn.to/3m6V9OU",nameProduct: `Vitamix A3500 Ascent Series Blender`,image: '',summary: ``,slug: ""},
+			B00LFVV8CM: {href: "https://amzn.to/3GhFRik",nameProduct: `Vitamix Professional Series 750 Blender`,image: '',summary: ``,slug: ""},
+			B087KQDM15: {href: "https://amzn.to/3py3RYE",nameProduct: `Lenovo Smart Tab M10 Plus`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
