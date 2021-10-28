@@ -624,7 +624,22 @@ function getData(){
 			B08XPC3WFQ: {href: "https://amzn.to/3CfGSoE",nameProduct: `ASUS TUF Dash 15 Gaming Laptop`,image: '',summary: ``,slug: ""},
 			B075713NNL: {href: "https://amzn.to/3m6V9OU",nameProduct: `Vitamix A3500 Ascent Series Blender`,image: '',summary: ``,slug: ""},
 			B00LFVV8CM: {href: "https://amzn.to/3GhFRik",nameProduct: `Vitamix Professional Series 750 Blender`,image: '',summary: ``,slug: ""},
-			B087KQDM15: {href: "https://amzn.to/3py3RYE",nameProduct: `Lenovo Smart Tab M10 Plus`,image: '',summary: ``,slug: ""}
+			B087KQDM15: {href: "https://amzn.to/3py3RYE",nameProduct: `Lenovo Smart Tab M10 Plus`,image: '',summary: ``,slug: ""},
+			B086DKSHQ4: {href: "https://amzn.to/3muqlbb",nameProduct: `Blink Outdoor - Wireless, HD Security Camera`,image: '',summary: ``,slug: ""},
+			B095X7RV77: {href: "https://amzn.to/3bkAvEE",nameProduct: `Dell Curved Gaming Monitor`,image: '',summary: ``,slug: ""},
+			B07Z9Z64PR: {href: "https://amzn.to/3Gw8EQ7",nameProduct: `BISSELL air320 Smart Air Purifier`,image: '',summary: ``,slug: ""},
+			B099VY4ZW3: {href: "https://amzn.to/3BoTo47",nameProduct: `iBUYPOWER Pro Gaming PC Computer `,image: '',summary: ``,slug: ""},
+			B01M0OO2IT: {href: "https://amzn.to/2XThR3L",nameProduct: `Klipsch Reference RSB-6 Sound Bar`,image: '',summary: ``,slug: ""},
+			B084RZSFCX: {href: "https://amzn.to/3pI76g8",nameProduct: `Shure AONIC 50 Noise Headphones `,image: '',summary: ``,slug: ""},
+			B07TWFVDWT: {href: "https://amzn.to/3nB7biY",nameProduct: `Fitbit Versa 2 Smartwatch`,image: '',summary: ``,slug: ""},
+			B07VG9ZZMV: {href: "https://amzn.to/3BnB3Eg",nameProduct: `weBoost Home MultiRoom - Cell Phone`,image: '',summary: ``,slug: ""},
+			B086FKHTLZ: {href: "https://amzn.to/3jHFtjC",nameProduct: `Samsung Galaxy A51`,image: '',summary: ``,slug: ""},
+			B07DRR98PP: {href: "https://amzn.to/3pG8kIO",nameProduct: `Escort IXC Laser Radar Detector`,image: '',summary: ``,slug: ""},
+			B094NYHTMF: {href: "https://amzn.to/3jKBhQ9",nameProduct: `iRobot Roomba j7+ Robot Vacuum`,image: '',summary: ``,slug: ""},
+			B00XBOXVIA: {href: "https://amzn.to/3pTEcJQ",nameProduct: `Breville BOV845BSS Smart Oven Pro`,image: '',summary: ``,slug: ""},
+			B000W3T5QK: {href: "https://amzn.to/3moazhM",nameProduct: `Fisher F75 Metal Detector`,image: '',summary: ``,slug: ""},
+			B09B8DQ26F: {href: "https://amzn.to/3Bpa6Aj",nameProduct: `Oculus Quest 2 Virtual Reality Headset`,image: '',summary: ``,slug: ""},
+			B07PTNTRRJ: {href: "https://amzn.to/3EgmkNs",nameProduct: `WEN 56380i Portable Inverter Generator`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
