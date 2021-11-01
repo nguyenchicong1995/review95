@@ -639,7 +639,22 @@ function getData(){
 			B00XBOXVIA: {href: "https://amzn.to/3pTEcJQ",nameProduct: `Breville BOV845BSS Smart Oven Pro`,image: '',summary: ``,slug: ""},
 			B000W3T5QK: {href: "https://amzn.to/3moazhM",nameProduct: `Fisher F75 Metal Detector`,image: '',summary: ``,slug: ""},
 			B09B8DQ26F: {href: "https://amzn.to/3Bpa6Aj",nameProduct: `Oculus Quest 2 Virtual Reality Headset`,image: '',summary: ``,slug: ""},
-			B07PTNTRRJ: {href: "https://amzn.to/3EgmkNs",nameProduct: `WEN 56380i Portable Inverter Generator`,image: '',summary: ``,slug: ""}
+			B07PTNTRRJ: {href: "https://amzn.to/3EgmkNs",nameProduct: `WEN 56380i Portable Inverter Generator`,image: '',summary: ``,slug: ""},
+			B08BXXQ37X: {href: "https://amzn.to/2ZDGUIw",nameProduct: `Ninja DT251 Foodi Smart XL Air Fry Oven`,image: '',summary: ``,slug: ""},
+			B07D7Y7NKY: {href: "https://amzn.to/3my3zyX",nameProduct: `Oster Professional Octane Cordless Clipper`,image: '',summary: ``,slug: ""},
+			B07NQT85FC: {href: "https://amzn.to/3CBhLwM",nameProduct: `ecobee SmartThermostat`,image: '',summary: ``,slug: ""},
+			B08W53BJDV: {href: "https://amzn.to/3w2usy6",nameProduct: `Gree Portable Air Conditioner`,image: '',summary: ``,slug: ""},
+			B096BK7W5M: {href: "https://amzn.to/3bxazFS",nameProduct: `Samsung Galaxy Watch 4`,image: '',summary: ``,slug: ""},
+			B00V3V7O1I: {href: "https://amzn.to/3bvziKT",nameProduct: `Wolf Gourmet 4-Slice Toaster`,image: '',summary: ``,slug: ""},
+			B085H7GQYD: {href: "https://amzn.to/3CM9fuI",nameProduct: `Laurastar Lift Xtra Steam Iron`,image: '',summary: ``,slug: ""},
+			B07L9HCJ2V: {href: "https://amzn.to/3q0kNXR",nameProduct: `SAMSUNG CRG9 Curved Gaming Monitor`,image: '',summary: ``,slug: ""},
+			B089KTST3G: {href: "https://amzn.to/3bvaGBX",nameProduct: `Harman Kardon Onyx Studio 6`,image: '',summary: ``,slug: ""},
+			B07CX95VRT: {href: "https://amzn.to/3GyOIw6",nameProduct: `Vitamix Explorian Blender`,image: '',summary: ``,slug: ""},
+			B08Z75576H: {href: "https://amzn.to/3myHccT",nameProduct: `Narwal T10 Robot Vacuum and Mop`,image: '',summary: ``,slug: ""},
+			B08P75DNB5: {href: "https://amzn.to/3bu8n1Q",nameProduct: `eufy Security Smart Lock Touch`,image: '',summary: ``,slug: ""},
+			B07W1HKYQK: {href: "https://amzn.to/3buIVcD",nameProduct: `eufyCam 2C 2-Cam Kit `,image: '',summary: ``,slug: ""},
+			B08CFSZLQ4: {href: "https://amzn.to/3nR1eyJ",nameProduct: `Google Pixel 4a`,image: '',summary: ``,slug: ""},
+			B00CH9QWOU: {href: "https://amzn.to/3nOLsnW",nameProduct: `Breville Barista Express Espresso Machine`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
