@@ -654,7 +654,22 @@ function getData(){
 			B08P75DNB5: {href: "https://amzn.to/3bu8n1Q",nameProduct: `eufy Security Smart Lock Touch`,image: '',summary: ``,slug: ""},
 			B07W1HKYQK: {href: "https://amzn.to/3buIVcD",nameProduct: `eufyCam 2C 2-Cam Kit `,image: '',summary: ``,slug: ""},
 			B08CFSZLQ4: {href: "https://amzn.to/3nR1eyJ",nameProduct: `Google Pixel 4a`,image: '',summary: ``,slug: ""},
-			B00CH9QWOU: {href: "https://amzn.to/3nOLsnW",nameProduct: `Breville Barista Express Espresso Machine`,image: '',summary: ``,slug: ""}
+			B00CH9QWOU: {href: "https://amzn.to/3nOLsnW",nameProduct: `Breville Barista Express Espresso Machine`,image: '',summary: ``,slug: ""},
+			B09G9DT2KW: {href: "https://amzn.to/3CQWjnn",nameProduct: `Apple Watch SE`,image: '',summary: ``,slug: ""},
+			B071D6F3XF: {href: "https://amzn.to/3k7kRRZ",nameProduct: `Joseph Joseph 30030 Waste Trash `,image: '',summary: ``,slug: ""},
+			B08FJ24265: {href: "https://amzn.to/3mS3h60",nameProduct: `ECOFLOW RIVER Portable Power Station`,image: '',summary: ``,slug: ""},
+			B08HRML25F: {href: "https://amzn.to/3BM2sQt",nameProduct: `Arlo Ultra 2 Spotlight Camera`,image: '',summary: ``,slug: ""},
+			B07TCJGJS6: {href: "https://amzn.to/3bOVCPU",nameProduct: `Philips Pasta and Noodle Maker Plus`,image: '',summary: ``,slug: ""},
+			B08WG7L6G8: {href: "https://amzn.to/3wjUMUy",nameProduct: `LG OLED G1 Series 77” Smart TV `,image: '',summary: ``,slug: ""},
+			B07W4PJHF3: {href: "https://amzn.to/2ZUXrb9",nameProduct: `Anker Nebula Apollo Wi-Fi Mini Projector`,image: '',summary: ``,slug: ""},
+			B09BFQCNMR: {href: "https://amzn.to/3mPVOV9",nameProduct: `Beelink Mini PC`,image: '',summary: ``,slug: ""},
+			B07H7BMTLV: {href: "https://amzn.to/3bO8iGI",nameProduct: `Marshall Woburn II Bluetooth Speaker`,image: '',summary: ``,slug: ""},
+			B07V3CLLCV: {href: "https://amzn.to/3qdiG2Y",nameProduct: `Holy Stone HS720 GPS Drone `,image: '',summary: ``,slug: ""},
+			B08FRR6Z1N: {href: "https://amzn.to/3o5yNwN",nameProduct: `Bose Sleepbuds II`,image: '',summary: ``,slug: ""},
+			B07JRHWDP9: {href: "https://amzn.to/3ESuifQ",nameProduct: `NordicTrack Commercial Series`,image: '',summary: ``,slug: ""},
+			B08S7ND492: {href: "https://amzn.to/3H72M0i",nameProduct: `ECOVACS Deebot N8 Pro+ Robot Vacuum`,image: '',summary: ``,slug: ""},
+			B086DBR6TB: {href: "https://amzn.to/2YpjlTC",nameProduct: `Sony SRS-XB43 Wireless Portable Speaker`,image: '',summary: ``,slug: ""},
+			B07XM7WVS8: {href: "https://amzn.to/3H7ZRVd",nameProduct: `OnePlus 9 Pro Morning Mist`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
