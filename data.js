@@ -669,7 +669,22 @@ function getData(){
 			B07JRHWDP9: {href: "https://amzn.to/3ESuifQ",nameProduct: `NordicTrack Commercial Series`,image: '',summary: ``,slug: ""},
 			B08S7ND492: {href: "https://amzn.to/3H72M0i",nameProduct: `ECOVACS Deebot N8 Pro+ Robot Vacuum`,image: '',summary: ``,slug: ""},
 			B086DBR6TB: {href: "https://amzn.to/2YpjlTC",nameProduct: `Sony SRS-XB43 Wireless Portable Speaker`,image: '',summary: ``,slug: ""},
-			B07XM7WVS8: {href: "https://amzn.to/3H7ZRVd",nameProduct: `OnePlus 9 Pro Morning Mist`,image: '',summary: ``,slug: ""}
+			B07XM7WVS8: {href: "https://amzn.to/3H7ZRVd",nameProduct: `OnePlus 9 Pro Morning Mist`,image: '',summary: ``,slug: ""},
+			B07BR1L7SR: {href: "https://amzn.to/3D5AdxV",nameProduct: `Garrett ACE 300 Metal Detector`,image: '',summary: ``,slug: ""},
+			B01DQ0D606: {href: "https://amzn.to/3qsNTj2",nameProduct: `Wavestorm 8ft Classic Surfboard`,image: '',summary: ``,slug: ""},
+			B08GL37R6Y: {href: "https://amzn.to/3c1Urwo",nameProduct: `Epson Home Cinema 880 Projector`,image: '',summary: ``,slug: ""},
+			B08Z66BHWW: {href: "https://amzn.to/3D4MDpy",nameProduct: `AOC C32G2ZE 32"Gaming Monitor`,image: '',summary: ``,slug: ""},
+			B08GJR3T43: {href: "https://amzn.to/3D5eKox",nameProduct: `Meepo Mini 2 Electric Skateboard`,image: '',summary: ``,slug: ""},
+			B091D9652Z: {href: "https://amzn.to/3D6gVZ8",nameProduct: `HP 14 Laptop`,image: '',summary: ``,slug: ""},
+			B08F2S98DM: {href: "https://amzn.to/30ejN7O",nameProduct: `DEEBOT OZMO U2 Pro Robot Vacuum Cleaner`,image: '',summary: ``,slug: ""},
+			B089T61XRG: {href: "https://amzn.to/3D7FVz5",nameProduct: `Hover-1 H1-100 Electric Hoverboard `,image: '',summary: ``,slug: ""},
+			B08TGCTT6C: {href: "https://amzn.to/3ksfjS3",nameProduct: `De'Longhi Dinamica Plus Espresso Machine`,image: '',summary: ``,slug: ""},
+			B08ZV27ZDY: {href: "https://amzn.to/3qqztzL",nameProduct: `Smeg ECF01PKUS 50s Espresso Machine `,image: '',summary: ``,slug: ""},
+			B07YF9SGBW: {href: "https://amzn.to/3ksfuNd",nameProduct: `GE Profile Opal Nugget Ice Maker`,image: '',summary: ``,slug: ""},
+			B08KBWQ9FJ: {href: "https://amzn.to/3c3L9jD",nameProduct: `NordicTrack Commercial Studio Cycle`,image: '',summary: ``,slug: ""},
+			B09HFGSQH5: {href: "https://amzn.to/30fqVk0",nameProduct: `Apple Watch Series 7`,image: '',summary: ``,slug: ""},
+			B01FHQVZJ6: {href: "https://amzn.to/3krubQB",nameProduct: `Blendtec Classic 575 Blender`,image: '',summary: ``,slug: ""},
+			B096GRMXXW: {href: "https://amzn.to/3oArFsT",nameProduct: `Instant Precision Dutch Oven`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
