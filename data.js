@@ -684,7 +684,22 @@ function getData(){
 			B08KBWQ9FJ: {href: "https://amzn.to/3c3L9jD",nameProduct: `NordicTrack Commercial Studio Cycle`,image: '',summary: ``,slug: ""},
 			B09HFGSQH5: {href: "https://amzn.to/30fqVk0",nameProduct: `Apple Watch Series 7`,image: '',summary: ``,slug: ""},
 			B01FHQVZJ6: {href: "https://amzn.to/3krubQB",nameProduct: `Blendtec Classic 575 Blender`,image: '',summary: ``,slug: ""},
-			B096GRMXXW: {href: "https://amzn.to/3oArFsT",nameProduct: `Instant Precision Dutch Oven`,image: '',summary: ``,slug: ""}
+			B096GRMXXW: {href: "https://amzn.to/3oArFsT",nameProduct: `Instant Precision Dutch Oven`,image: '',summary: ``,slug: ""},
+			B0874YHTXW: {href: "https://amzn.to/3cfowJd",nameProduct: `Samsung T7 Portable SSD`,image: '',summary: ``,slug: ""},
+			B08HGS82P6: {href: "https://amzn.to/3Dq1ivC",nameProduct: `Champion Portable Inverter Generator`,image: '',summary: ``,slug: ""},
+			B07NW8SP6H: {href: "https://amzn.to/3owalF7",nameProduct: `Craftsman M105 Lawn Mower`,image: '',summary: ``,slug: ""},
+			B09G9DKC87: {href: "https://amzn.to/3wP4tKW",nameProduct: `iPhone 13 Pro Max`,image: '',summary: ``,slug: ""},
+			B08N5M7S6K: {href: "https://amzn.to/3kGR176",nameProduct: `Apple MacBook Air Laptop`,image: '',summary: ``,slug: ""},
+			B07GW74B6N: {href: "https://amzn.to/3FmIT3C",nameProduct: `Dell XPS 17 9710 Touchscreen Laptop`,image: '',summary: ``,slug: ""},
+			B07XPMQ2SR: {href: "https://amzn.to/3wPNvvU",nameProduct: `Segway Ninebot S-Plus Electric Scooter`,image: '',summary: ``,slug: ""},
+			B08C4LC7TG: {href: "https://amzn.to/3nlvbYp",nameProduct: `iRobot Roomba i3+ Robot Vacuum`,image: '',summary: ``,slug: ""},
+			B08BF4NMK7: {href: "https://amzn.to/3nlUnOB",nameProduct: `iPhone XS Max`,image: '',summary: ``,slug: ""},
+			B07DVPL1HG: {href: "https://amzn.to/3wPbgo5",nameProduct: `Canon EOS M50 Mirrorless Camera`,image: '',summary: ``,slug: ""},
+			B08XPC3WFQ: {href: "https://amzn.to/3nksmH9",nameProduct: `ASUS TUF Dash 15 Gaming Laptop`,image: '',summary: ``,slug: ""},
+			B098FKXT8L: {href: "https://amzn.to/3Dotz5M",nameProduct: `Bose QuietComfort 45 Wireless Noise Headphones`,image: '',summary: ``,slug: ""},
+			B08THKWJ23: {href: "https://amzn.to/3ce3zye",nameProduct: `BLACK+DECKER Portable Air Conditioner`,image: '',summary: ``,slug: ""},
+			B07YXK714F: {href: "https://amzn.to/3njvhji",nameProduct: `Nespresso Vertuo Coffee and Espresso Maker`,image: '',summary: ``,slug: ""},
+			B08J5SQ3MG: {href: "https://amzn.to/3nk2ISM",nameProduct: `Apple Watch Series 6`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
