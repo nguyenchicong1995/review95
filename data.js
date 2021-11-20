@@ -699,7 +699,22 @@ function getData(){
 			B098FKXT8L: {href: "https://amzn.to/3Dotz5M",nameProduct: `Bose QuietComfort 45 Wireless Noise Headphones`,image: '',summary: ``,slug: ""},
 			B08THKWJ23: {href: "https://amzn.to/3ce3zye",nameProduct: `BLACK+DECKER Portable Air Conditioner`,image: '',summary: ``,slug: ""},
 			B07YXK714F: {href: "https://amzn.to/3njvhji",nameProduct: `Nespresso Vertuo Coffee and Espresso Maker`,image: '',summary: ``,slug: ""},
-			B08J5SQ3MG: {href: "https://amzn.to/3nk2ISM",nameProduct: `Apple Watch Series 6`,image: '',summary: ``,slug: ""}
+			B08J5SQ3MG: {href: "https://amzn.to/3nk2ISM",nameProduct: `Apple Watch Series 6`,image: '',summary: ``,slug: ""},
+			B08C9JJBJM: {href: "https://amzn.to/3cyZPrk",nameProduct: `Arlo Pro 3 Security 2 Camera System`,image: '',summary: ``,slug: ""},
+			B096FK3CH3: {href: "https://amzn.to/3cuIbF5",nameProduct: `ZXMOTO Electric Pasta Maker`,image: '',summary: ``,slug: ""},
+			B092Q6QNC1: {href: "https://amzn.to/3DDQ4DR",nameProduct: `VIZIO V-Series 4K UHD LED HDR Smart TV`,image: '',summary: ``,slug: ""},
+			B072KNGV1K: {href: "https://amzn.to/3cyiELe",nameProduct: `ILIFE V8s Robot Vacuum and Mop`,image: '',summary: ``,slug: ""},
+			B0813ZYB2K: {href: "https://amzn.to/3qUBVyB",nameProduct: `Anki Vector Robot`,image: '',summary: ``,slug: ""},
+			B06WRNTQX4: {href: "https://amzn.to/30JuOOp",nameProduct: `Real Relax Massage Chair`,image: '',summary: ``,slug: ""},
+			B07VMNX6WP: {href: "https://amzn.to/3DE7joy",nameProduct: `iPhone XS`,image: '',summary: ``,slug: ""},
+			B08YKG5K7F: {href: "https://amzn.to/3Cw68pT",nameProduct: `Lenovo Legion 5 15 Gaming Laptop`,image: '',summary: ``,slug: ""},
+			B094T6NYV9: {href: "https://amzn.to/3oNKpVz",nameProduct: `Sony SRS-XG500 Portable Bluetooth Speaker`,image: '',summary: ``,slug: ""},
+			B07GLV1VC7: {href: "https://amzn.to/3FBUg7F",nameProduct: `Lenovo Chromebook S330 Laptop`,image: '',summary: ``,slug: ""},
+			B07W6RXHJG: {href: "https://amzn.to/3DF80xW",nameProduct: `Garmin Venu GPS Smartwatch`,image: '',summary: ``,slug: ""},
+			B098XYR62P: {href: "https://amzn.to/32oJfIV",nameProduct: `BISSELL air320 Smart Air Purifier`,image: '',summary: ``,slug: ""},
+			B07MZDZBZ1: {href: "https://amzn.to/3kWWnLx",nameProduct: `LG WM3499HVA WASHER/DRYER`,image: '',summary: ``,slug: ""},
+			B07GPZPXQ3: {href: "https://amzn.to/30OnOAr",nameProduct: `Breville Fresh and Furious Blender`,image: '',summary: ``,slug: ""},
+			B01FIG1JIM: {href: "https://amzn.to/3x4TsoS",nameProduct: `Dyson Supersonic Hair Dryer`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
