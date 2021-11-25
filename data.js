@@ -714,7 +714,22 @@ function getData(){
 			B098XYR62P: {href: "https://amzn.to/32oJfIV",nameProduct: `BISSELL air320 Smart Air Purifier`,image: '',summary: ``,slug: ""},
 			B07MZDZBZ1: {href: "https://amzn.to/3kWWnLx",nameProduct: `LG WM3499HVA WASHER/DRYER`,image: '',summary: ``,slug: ""},
 			B07GPZPXQ3: {href: "https://amzn.to/30OnOAr",nameProduct: `Breville Fresh and Furious Blender`,image: '',summary: ``,slug: ""},
-			B01FIG1JIM: {href: "https://amzn.to/3x4TsoS",nameProduct: `Dyson Supersonic Hair Dryer`,image: '',summary: ``,slug: ""}
+			B01FIG1JIM: {href: "https://amzn.to/3x4TsoS",nameProduct: `Dyson Supersonic Hair Dryer`,image: '',summary: ``,slug: ""},
+			B07PJ5Q943: {href: "https://amzn.to/3nPRR3l",nameProduct: `Bartesian Premium Cocktail and Margarita Machine`,image: '',summary: ``,slug: ""},
+			B01NCUO4E9: {href: "https://amzn.to/3r3Dz18",nameProduct: `Sunny Health Fitness Smart Treadmill `,image: '',summary: ``,slug: ""},
+			B07ZPC9QD4: {href: "https://amzn.to/3cPGp1r",nameProduct: `AirPods Pro`,image: '',summary: ``,slug: ""},
+			B08CYY2S3V: {href: "https://amzn.to/3CMl0AB",nameProduct: `Bose Frames Tenor`,image: '',summary: ``,slug: ""},
+			B06X3SV1M5: {href: "https://amzn.to/2ZkC2YW",nameProduct: `BLITZART Tornado Electric Skateboard`,image: '',summary: ``,slug: ""},
+			B084Z5P2BX: {href: "https://amzn.to/3l3SLHG",nameProduct: `Roborock S6 Pure Robot Vacuum and Mop`,image: '',summary: ``,slug: ""},
+			B01MFC73AZ: {href: "https://amzn.to/310SpdB",nameProduct: `Nespresso CitiZ Original Espresso Machine`,image: '',summary: ``,slug: ""},
+			B086MHR7D9: {href: "https://amzn.to/3DUWcrz",nameProduct: `Razer Blade Stealth 13 Gaming Laptop`,image: '',summary: ``,slug: ""},
+			B096YMQ3C8: {href: "https://amzn.to/3cJkpVY",nameProduct: `SAMSUNG Odyssey G5 Gaming Monitor`,image: '',summary: ``,slug: ""},
+			B01MS16V42: {href: "https://amzn.to/3nQJd4P",nameProduct: `Panasonic LUMIX FZ80 Camera`,image: '',summary: ``,slug: ""},
+			B07FJGGWJL: {href: "https://amzn.to/3oWCF3W",nameProduct: `SAMSUNG SmartThings Hub`,image: '',summary: ``,slug: ""},
+			B07C6LX1NF: {href: "https://amzn.to/3HVLXFN",nameProduct: `Brilliant Smart Home Control`,image: '',summary: ``,slug: ""},
+			B08ZT3557Q: {href: "https://amzn.to/3nOQIc9",nameProduct: `Samsung Galaxy A42`,image: '',summary: ``,slug: ""},
+			B09G91TLNJ: {href: "https://amzn.to/3HRnzFs",nameProduct: `Apple 10.2-inch iPad`,image: '',summary: ``,slug: ""},
+			B07DD2VPS3: {href: "https://amzn.to/3HPWTF5",nameProduct: `Ninja CT800 Professional Chef Blender`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
