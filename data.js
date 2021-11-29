@@ -729,7 +729,22 @@ function getData(){
 			B07C6LX1NF: {href: "https://amzn.to/3HVLXFN",nameProduct: `Brilliant Smart Home Control`,image: '',summary: ``,slug: ""},
 			B08ZT3557Q: {href: "https://amzn.to/3nOQIc9",nameProduct: `Samsung Galaxy A42`,image: '',summary: ``,slug: ""},
 			B09G91TLNJ: {href: "https://amzn.to/3HRnzFs",nameProduct: `Apple 10.2-inch iPad`,image: '',summary: ``,slug: ""},
-			B07DD2VPS3: {href: "https://amzn.to/3HPWTF5",nameProduct: `Ninja CT800 Professional Chef Blender`,image: '',summary: ``,slug: ""}
+			B07DD2VPS3: {href: "https://amzn.to/3HPWTF5",nameProduct: `Ninja CT800 Professional Chef Blender`,image: '',summary: ``,slug: ""},
+			B09D2V5C8N: {href: "https://amzn.to/317Up4l",nameProduct: `Euhomy Nugget Ice Maker Countertop`,image: '',summary: ``,slug: ""},
+			B01CRA5WP8: {href: "https://amzn.to/3d1gWlL",nameProduct: `Dyson Pure Cool Link TP02 Air Purifier`,image: '',summary: ``,slug: ""},
+			B09BQKNK5X: {href: "https://amzn.to/3FUtN5r",nameProduct: `Afloia Smart WiFi Air Purifier`,image: '',summary: ``,slug: ""},
+			B08YWLZ2TK: {href: "https://amzn.to/3xx0fIh",nameProduct: `Microsoft Surface Laptop 4`,image: '',summary: ``,slug: ""},
+			B09B2WWVBR: {href: "https://amzn.to/3o48mc0",nameProduct: `Fossil Men's Gen 6 Smartwatch`,image: '',summary: ``,slug: ""},
+			B00I8R4VZC: {href: "https://amzn.to/3HYLEtY",nameProduct: `Dyson Cool AM07 Tower Fan`,image: '',summary: ``,slug: ""},
+			B00I8R4UFS: {href: "https://amzn.to/319p80u",nameProduct: `Dyson Air Multiplier AM06 Table Fan`,image: '',summary: ``,slug: ""},
+			B08D7HK8Q1: {href: "https://amzn.to/3rikVCT",nameProduct: `Phrozen Sonic Mini 4K Printer`,image: '',summary: ``,slug: ""},
+			B08SF5VR9V: {href: "https://amzn.to/3xwJEUS",nameProduct: `SAMSUNG QLED 4K UHD Smart TV`,image: '',summary: ``,slug: ""},
+			B08SVTM2X6: {href: "https://amzn.to/3FXHG2O",nameProduct: `MOVA Robot Vacuum and Mop`,image: '',summary: ``,slug: ""},
+			B088W1QJP1: {href: "https://amzn.to/3pcKu5B",nameProduct: `Skytech Archangel Gaming Computer PC`,image: '',summary: ``,slug: ""},
+			B07J5HD8L9: {href: "https://amzn.to/3EaxPGI",nameProduct: `Pulsar 2200W Portable Inverter Generator`,image: '',summary: ``,slug: ""},
+			B07DC5H7F1: {href: "https://amzn.to/32J1EQH",nameProduct: `Antarctic Star Mini Fridge Cooler`,image: '',summary: ``,slug: ""},
+			B088ZT936N: {href: "https://amzn.to/3E2qdWE",nameProduct: `Eureka Mignon Notte Espresso Grinder`,image: '',summary: ``,slug: ""},
+			B08XSDN7XH: {href: "https://amzn.to/317UWTT",nameProduct: `Hover-1 Alpha Electric Scooter`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
