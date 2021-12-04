@@ -744,7 +744,22 @@ function getData(){
 			B07J5HD8L9: {href: "https://amzn.to/3EaxPGI",nameProduct: `Pulsar 2200W Portable Inverter Generator`,image: '',summary: ``,slug: ""},
 			B07DC5H7F1: {href: "https://amzn.to/32J1EQH",nameProduct: `Antarctic Star Mini Fridge Cooler`,image: '',summary: ``,slug: ""},
 			B088ZT936N: {href: "https://amzn.to/3E2qdWE",nameProduct: `Eureka Mignon Notte Espresso Grinder`,image: '',summary: ``,slug: ""},
-			B08XSDN7XH: {href: "https://amzn.to/317UWTT",nameProduct: `Hover-1 Alpha Electric Scooter`,image: '',summary: ``,slug: ""}
+			B08XSDN7XH: {href: "https://amzn.to/317UWTT",nameProduct: `Hover-1 Alpha Electric Scooter`,image: '',summary: ``,slug: ""},
+			B08VHZJ6R2: {href: "https://amzn.to/3GbOfiv",nameProduct: `Roborock S7 Robot Vacuum and Mop`,image: '',summary: ``,slug: ""},
+			B01LYTP2SG: {href: "https://amzn.to/3dhszVJ",nameProduct: `Nespresso Creatista Plus Espresso Machine`,image: '',summary: ``,slug: ""},
+			B09G9JQBQH: {href: "https://amzn.to/3IhDHQF",nameProduct: `iPad Mini 6`,image: '',summary: ``,slug: ""},
+			B086MP21NF: {href: "https://amzn.to/3IkrpXN",nameProduct: `Razer Blade 15 Studio Edition Laptop`,image: '',summary: ``,slug: ""},
+			B09JL41N9C: {href: "https://amzn.to/3ovuxZf",nameProduct: `Beats Fit Pro`,image: '',summary: ``,slug: ""},
+			B07ZNJ6Q9X: {href: "https://amzn.to/3rwWC48",nameProduct: `Roborock S5 MAX Robot Vacuum`,image: '',summary: ``,slug: ""},
+			B074P2M8N8: {href: "https://amzn.to/3xRLG22",nameProduct: `Cloud Massage Shiatsu Foot Massager Machine`,image: '',summary: ``,slug: ""},
+			B07F618LKC: {href: "https://amzn.to/3Gjw3DP",nameProduct: `COSTWAY Compact Laundry Dryer`,image: '',summary: ``,slug: ""},
+			B08FYTRF6J: {href: "https://amzn.to/31kpF0g",nameProduct: `SAMSUNG Galaxy S20 FE`,image: '',summary: ``,slug: ""},
+			B07YDNCL3D: {href: "https://amzn.to/3xRiwjy",nameProduct: `WantJoin Professional Commercial Blender`,image: '',summary: ``,slug: ""},
+			B07FWSZL24: {href: "https://amzn.to/3EnwqN2",nameProduct: `Alen 75i Air Purifier`,image: '',summary: ``,slug: ""},
+			B07MN2NBTT: {href: "https://amzn.to/3GaQ53a",nameProduct: `Dyson Airwrap Complete Styler`,image: '',summary: ``,slug: ""},
+			B085HNMHKJ: {href: "https://amzn.to/3xVJVRn",nameProduct: `Holy Stone HS720E GPS Drone`,image: '',summary: ``,slug: ""},
+			B07LFJMS2S: {href: "https://amzn.to/3EqQ7mT",nameProduct: `Medify MA-112 Air Purifier`,image: '',summary: ``,slug: ""},
+			B01N5UPTZS: {href: "https://amzn.to/3IcC0E6",nameProduct: `Breville BOV900BSS the Smart Oven`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
