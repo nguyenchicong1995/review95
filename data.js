@@ -759,7 +759,21 @@ function getData(){
 			B07MN2NBTT: {href: "https://amzn.to/3GaQ53a",nameProduct: `Dyson Airwrap Complete Styler`,image: '',summary: ``,slug: ""},
 			B085HNMHKJ: {href: "https://amzn.to/3xVJVRn",nameProduct: `Holy Stone HS720E GPS Drone`,image: '',summary: ``,slug: ""},
 			B07LFJMS2S: {href: "https://amzn.to/3EqQ7mT",nameProduct: `Medify MA-112 Air Purifier`,image: '',summary: ``,slug: ""},
-			B01N5UPTZS: {href: "https://amzn.to/3IcC0E6",nameProduct: `Breville BOV900BSS the Smart Oven`,image: '',summary: ``,slug: ""}
+			B01N5UPTZS: {href: "https://amzn.to/3IcC0E6",nameProduct: `Breville BOV900BSS the Smart Oven`,image: '',summary: ``,slug: ""},
+			B07DD2VPS3: {href: "https://amzn.to/3rOn49B",nameProduct: `Ninja CT800 Professional Chef Blender`,image: '',summary: ``,slug: ""},
+			B08B45R9CF: {href: "https://amzn.to/3oEiYyX",nameProduct: `Klipsch Cinema 400 Sound Bar`,image: '',summary: ``,slug: ""},
+			B08N2MSSZY: {href: "https://amzn.to/3ICbwfC",nameProduct: `SAMSUNG Galaxy S21 Ultra 5G`,image: '',summary: ``,slug: ""},
+			B08V3VFXCN: {href: "https://amzn.to/3pJw9h8",nameProduct: `Fellow Ode Brew Grinder`,image: '',summary: ``,slug: ""},
+			B07RQ3NL76: {href: "https://amzn.to/3lMe9Sk",nameProduct: `Gaggia Classic Pro Espresso Machine`,image: '',summary: ``,slug: ""},
+			B0149GG9V4: {href: "https://amzn.to/3dyMhfV",nameProduct: `Brother PQ1500SL Sewing Machine`,image: '',summary: ``,slug: ""},
+			B08VKXP1VY: {href: "https://amzn.to/3IAu5AH",nameProduct: `Bose SoundLink Revolve II Bluetooth Speaker`,image: '',summary: ``,slug: ""},
+			B0823BTHM3: {href: "https://amzn.to/3lOhpfM",nameProduct: `Schwinn Mountain Bike`,image: '',summary: ``,slug: ""},
+			B093TK1PXF: {href: "https://amzn.to/3lQO44s",nameProduct: `Acer Swift X Creator Laptop`,image: '',summary: ``,slug: ""},
+			B089YVVLSW: {href: "https://amzn.to/33i7lW4",nameProduct: `Garmin Instinct Solar Smartwatch`,image: '',summary: ``,slug: ""},
+			B096BK3D6H: {href: "https://amzn.to/31N47t7",nameProduct: `Galaxy Watch 4 40mm Smartwatch`,image: '',summary: ``,slug: ""},
+			B08CKT6KM2: {href: "https://amzn.to/3EWMJAN",nameProduct: `Mi Robot Vacuum-Mop`,image: '',summary: ``,slug: ""},
+			B091Q2CC6W: {href: "https://amzn.to/3dAH2wf",nameProduct: `Bwine F7 Drone`,image: '',summary: ``,slug: ""},
+			B08FBN5STQ: {href: "https://amzn.to/3DNmETm",nameProduct: `SAMSUNG Galaxy Tab S7`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
