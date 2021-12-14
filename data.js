@@ -773,7 +773,22 @@ function getData(){
 			B096BK3D6H: {href: "https://amzn.to/31N47t7",nameProduct: `Galaxy Watch 4 40mm Smartwatch`,image: '',summary: ``,slug: ""},
 			B08CKT6KM2: {href: "https://amzn.to/3EWMJAN",nameProduct: `Mi Robot Vacuum-Mop`,image: '',summary: ``,slug: ""},
 			B091Q2CC6W: {href: "https://amzn.to/3dAH2wf",nameProduct: `Bwine F7 Drone`,image: '',summary: ``,slug: ""},
-			B08FBN5STQ: {href: "https://amzn.to/3DNmETm",nameProduct: `SAMSUNG Galaxy Tab S7`,image: '',summary: ``,slug: ""}
+			B08FBN5STQ: {href: "https://amzn.to/3DNmETm",nameProduct: `SAMSUNG Galaxy Tab S7`,image: '',summary: ``,slug: ""},
+			B085VLSZ1S: {href: "https://amzn.to/3EWYpTT",nameProduct: `DEERC DE22 GPS Drone`,image: '',summary: ``,slug: ""},
+			B00VFH1RQS: {href: "https://amzn.to/3IPYU4m",nameProduct: `Core 9 Person Instant Cabin Tent`,image: '',summary: ``,slug: ""},
+			B07RXZC12J: {href: "https://amzn.to/3oRs5vY",nameProduct: `HUION KAMVAS Pro 16 Graphics Drawing Tablet`,image: '',summary: ``,slug: ""},
+			B07NX8XBMP: {href: "https://amzn.to/30rvgRS",nameProduct: `Dyson V11 Torque Drive Vacuum Cleaner`,image: '',summary: ``,slug: ""},
+			B00JJ5I7GQ: {href: "https://amzn.to/3dPyilY",nameProduct: `Polaris 9550 Sport Robotic Pool Cleaner`,image: '',summary: ``,slug: ""},
+			B087C7KJGD: {href: "https://amzn.to/3yordSG",nameProduct: `Tesvor Robot Vacuum Cleaner`,image: '',summary: ``,slug: ""},
+			B07GYRQVYV: {href: "https://amzn.to/3ywOAd6",nameProduct: `Creality Ender 3 Pro 3D Printer`,image: '',summary: ``,slug: ""},
+			B01K2FQ4DE: {href: "https://amzn.to/3s3ojSd",nameProduct: `Cuisinart SM-50BC Stand Mixer`,image: '',summary: ``,slug: ""},
+			B08YMBQJ49: {href: "https://amzn.to/3oPPEWe",nameProduct: `Ring Alarm 2nd Gen`,image: '',summary: ``,slug: ""},
+			B08632KX27: {href: "https://amzn.to/3oU6Qdi",nameProduct: `Apple Mac Mini`,image: '',summary: ``,slug: ""},
+			B08N5LM1K3: {href: "https://amzn.to/3pWqPad",nameProduct: `MacBook Pro`,image: '',summary: ``,slug: ""},
+			B07HJD7HB3: {href: "https://amzn.to/3ywOOAY",nameProduct: `Harman Kardon Onyx Studio 5 Bluetooth Speaker`,image: '',summary: ``,slug: ""},
+			B07XH3MK52: {href: "https://amzn.to/3GIQoCq",nameProduct: `Renogy Phoenix 300 Portable Power Station`,image: '',summary: ``,slug: ""},
+			B07F38CPM1: {href: "https://amzn.to/3DMUWpG",nameProduct: `1:10 Scale Large RC Cars`,image: '',summary: ``,slug: ""},
+			B082TMBYR6: {href: "https://amzn.to/3ETABjZ",nameProduct: `Jackery Portable Power Station Explorer 300`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
