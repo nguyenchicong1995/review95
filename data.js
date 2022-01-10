@@ -788,7 +788,22 @@ function getData(){
 			B07HJD7HB3: {href: "https://amzn.to/3ywOOAY",nameProduct: `Harman Kardon Onyx Studio 5 Bluetooth Speaker`,image: '',summary: ``,slug: ""},
 			B07XH3MK52: {href: "https://amzn.to/3GIQoCq",nameProduct: `Renogy Phoenix 300 Portable Power Station`,image: '',summary: ``,slug: ""},
 			B07F38CPM1: {href: "https://amzn.to/3DMUWpG",nameProduct: `1:10 Scale Large RC Cars`,image: '',summary: ``,slug: ""},
-			B082TMBYR6: {href: "https://amzn.to/3ETABjZ",nameProduct: `Jackery Portable Power Station Explorer 300`,image: '',summary: ``,slug: ""}
+			B082TMBYR6: {href: "https://amzn.to/3ETABjZ",nameProduct: `Jackery Portable Power Station Explorer 300`,image: '',summary: ``,slug: ""},
+			B079ZC5V2Y: {href: "https://amzn.to/3teTScu",nameProduct: `Microsoft Natural Ergonomic Keyboard`,image: '',summary: ``,slug: ""},
+			B09DHP9M9G: {href: "https://amzn.to/34vLI53",nameProduct: `CYBERPOWERPC Gamer Xtreme VR Gaming PC`,image: '',summary: ``,slug: ""},
+			B07SZK3JM3: {href: "https://amzn.to/3HNjzF6",nameProduct: `Fossil Women's Charter Hybrid Smartwatch`,image: '',summary: ``,slug: ""},
+			B01FHQW5OK: {href: "https://amzn.to/3FgM8ci",nameProduct: `Blendtec Designer 625 Blender`,image: '',summary: ``,slug: ""},
+			B09G93FVHX: {href: "https://amzn.to/3Get67O",nameProduct: `iPhone 13 Pro`,image: '',summary: ``,slug: ""},
+			B081TMJ92G: {href: "https://amzn.to/3zJvu3T",nameProduct: `Keurig C K-Elite Maker`,image: '',summary: ``,slug: ""},
+			B092VCXDB1: {href: "https://amzn.to/3fa0SiI",nameProduct: `yeedi Vac Station Robot Vacuum`,image: '',summary: ``,slug: ""},
+			B00Y9PZEP8: {href: "https://amzn.to/3GfzKdR",nameProduct: `Greenworks Pro 80V 20 inch Snow Thrower `,image: '',summary: ``,slug: ""},
+			B08ND5PHND: {href: "https://amzn.to/3r3XUlh",nameProduct: `ViewSonic VX2768-2KP-MHD Gaming Monitor`,image: '',summary: ``,slug: ""},
+			B09MDQVX4W: {href: "https://amzn.to/3qcqeCK",nameProduct: `HP pavilion Business Laptop`,image: '',summary: ``,slug: ""},
+			B07PJLBDJF: {href: "https://amzn.to/3JYIOWY",nameProduct: `Primst Smart Refrigerator Coffee Table`,image: '',summary: ``,slug: ""},
+			B07Q2697YN: {href: "https://amzn.to/3qaUsWM",nameProduct: `JOROTO Indoor Cycling Bike`,image: '',summary: ``,slug: ""},
+			B08CMH75FG: {href: "https://amzn.to/3Fddi3C",nameProduct: `Sunco Lighting 6 Pack LED Ceiling Panel`,image: '',summary: ``,slug: ""},
+			B088CK6XJ4: {href: "https://amzn.to/3HPRoFp",nameProduct: `Oral-B iO Series 9 Electric Toothbrush`,image: '',summary: ``,slug: ""},
+			B0764JNG73: {href: "https://amzn.to/3JZ8rab",nameProduct: `Bowflex PR1000 Home Gym`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
