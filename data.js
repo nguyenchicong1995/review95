@@ -803,7 +803,22 @@ function getData(){
 			B07Q2697YN: {href: "https://amzn.to/3qaUsWM",nameProduct: `JOROTO Indoor Cycling Bike`,image: '',summary: ``,slug: ""},
 			B08CMH75FG: {href: "https://amzn.to/3Fddi3C",nameProduct: `Sunco Lighting 6 Pack LED Ceiling Panel`,image: '',summary: ``,slug: ""},
 			B088CK6XJ4: {href: "https://amzn.to/3HPRoFp",nameProduct: `Oral-B iO Series 9 Electric Toothbrush`,image: '',summary: ``,slug: ""},
-			B0764JNG73: {href: "https://amzn.to/3JZ8rab",nameProduct: `Bowflex PR1000 Home Gym`,image: '',summary: ``,slug: ""}
+			B0764JNG73: {href: "https://amzn.to/3JZ8rab",nameProduct: `Bowflex PR1000 Home Gym`,image: '',summary: ``,slug: ""},
+			B09B9CX2NF: {href: "https://amzn.to/3GJmy1n",nameProduct: `Sceptre 25" Gaming Monitor`,image: '',summary: ``,slug: ""},
+			B0825NN2FM: {href: "https://amzn.to/3Gy07vO",nameProduct: `roborock E4 Robot Vacuum Cleaner`,image: '',summary: ``,slug: ""},
+			B072PS64CM: {href: "https://amzn.to/3FspoWQ",nameProduct: `Briggs & Stratton 1022ER 22-Inch Snow Blower`,image: '',summary: ``,slug: ""},
+			B09D8KM95V: {href: "https://amzn.to/3I9EClx",nameProduct: `LG Ultragear GP9 - Portable Gaming Speaker`,image: '',summary: ``,slug: ""},
+			B079TB99K3: {href: "https://amzn.to/3tsioqB",nameProduct: `Audioengine A5+ Plus Wireless Speaker`,image: '',summary: ``,slug: ""},
+			B07W7W8WBH: {href: "https://amzn.to/3GvFQHl",nameProduct: `Garmin Vivoactive 4 GPS Smartwatch`,image: '',summary: ``,slug: ""},
+			B07W6RX2C3: {href: "https://amzn.to/3zWtC7W",nameProduct: `Garmin Vivoactive 4S GPS Smartwatch`,image: '',summary: ``,slug: ""},
+			B07PGR2Z5N: {href: "https://amzn.to/3qrV8Y1",nameProduct: `Ninja CM407 Specialty Coffee Maker`,image: '',summary: ``,slug: ""},
+			B08MWS7Z3K: {href: "https://amzn.to/3I9C7zD",nameProduct: `hOmelabs Compact Laundry Dryer`,image: '',summary: ``,slug: ""},
+			B01BGS9JVA: {href: "https://amzn.to/3zZWFYl",nameProduct: `Dyson Ball Animal Upright Vacuum`,image: '',summary: ``,slug: ""},
+			B075G3KM71: {href: "https://amzn.to/3GvLitA",nameProduct: `Beats Studio3 Wireless Headphones`,image: '',summary: ``,slug: ""},
+			B001ARYU58: {href: "https://amzn.to/33FbmUQ",nameProduct: `Bowflex SelectTech 552 Adjustable Dumbbell`,image: '',summary: ``,slug: ""},
+			B01CIGL44O: {href: "https://amzn.to/3Frdv3C",nameProduct: `Smeg BLF01PKUS 50s Style Blender`,image: '',summary: ``,slug: ""},
+			B08KGQKVDK: {href: "https://amzn.to/3FuyB0K",nameProduct: `Samsung Galaxy Tab S7+`,image: '',summary: ``,slug: ""},
+			B01MR7Z39V: {href: "https://amzn.to/321svaI",nameProduct: `Rheem RTEX-18 Water Heater`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
