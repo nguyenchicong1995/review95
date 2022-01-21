@@ -818,7 +818,22 @@ function getData(){
 			B001ARYU58: {href: "https://amzn.to/33FbmUQ",nameProduct: `Bowflex SelectTech 552 Adjustable Dumbbell`,image: '',summary: ``,slug: ""},
 			B01CIGL44O: {href: "https://amzn.to/3Frdv3C",nameProduct: `Smeg BLF01PKUS 50s Style Blender`,image: '',summary: ``,slug: ""},
 			B08KGQKVDK: {href: "https://amzn.to/3FuyB0K",nameProduct: `Samsung Galaxy Tab S7+`,image: '',summary: ``,slug: ""},
-			B01MR7Z39V: {href: "https://amzn.to/321svaI",nameProduct: `Rheem RTEX-18 Water Heater`,image: '',summary: ``,slug: ""}
+			B01MR7Z39V: {href: "https://amzn.to/321svaI",nameProduct: `Rheem RTEX-18 Water Heater`,image: '',summary: ``,slug: ""},
+			B07DVY8H3F: {href: "https://amzn.to/3Ky1aOy",nameProduct: `Pado Ozen 500 Vacuum Blender`,image: '',summary: ``,slug: ""},
+			B08S6TPC24: {href: "https://amzn.to/3FPPWBI",nameProduct: `ILIFE V80 Max Mopping Robot Vacuum`,image: '',summary: ``,slug: ""},
+			B00N65AAW4: {href: "https://amzn.to/3fGnR5f",nameProduct: `Weber Original Kettle Premium 26 Charcoal Grill`,image: '',summary: ``,slug: ""},
+			B08BTS24BB: {href: "https://amzn.to/3GQatr6",nameProduct: `Dell XPS 17 9710 Laptop`,image: '',summary: ``,slug: ""},
+			B01FIG1JIM: {href: "https://amzn.to/3rzOPRC",nameProduct: `Dyson Supersonic Hair Dryer`,image: '',summary: ``,slug: ""},
+			B09BG841VC: {href: "https://amzn.to/3rvL4MU",nameProduct: `Lenovo IdeaPad 3 Laptop`,image: '',summary: ``,slug: ""},
+			B0743H6CSN: {href: "https://amzn.to/3FMoeWf",nameProduct: `Uniden R3 Laser/Radar Detector`,image: '',summary: ``,slug: ""},
+			B07WXZDHGV: {href: "https://amzn.to/3Amd6i4",nameProduct: `ChargePoint Home Flex Electric Vehicle Charger`,image: '',summary: ``,slug: ""},
+			B09G9JFS6T: {href: "https://amzn.to/3rBBMiu",nameProduct: `iPhone 13 Pro`,image: '',summary: ``,slug: ""},
+			B08H8L2JJL: {href: "https://amzn.to/3qNwGk3",nameProduct: `Bowers & Wilkins PX7 Bluetooth Headphone`,image: '',summary: ``,slug: ""},
+			B0932B5NVD: {href: "https://amzn.to/3rvLUcw",nameProduct: `Apple 11-inch iPad Pro`,image: '',summary: ``,slug: ""},
+			B07LCWYBF7: {href: "https://amzn.to/3Im6BOU",nameProduct: `Cosmo 668ICS750 Island Mount Range Hood`,image: '',summary: ``,slug: ""},
+			B08H8GNPLQ: {href: "https://amzn.to/3fQUay9",nameProduct: `Bowers & Wilkins PI7 Wireless Headphones`,image: '',summary: ``,slug: ""},
+			B08ZRTRLR9: {href: "https://amzn.to/3rG5mmK",nameProduct: `ROG Strix GA15DK Gaming Desktop`,image: '',summary: ``,slug: ""},
+			B08FYVMRM5: {href: "https://amzn.to/3rzTJOh",nameProduct: `SAMSUNG Galaxy S20 FE`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
