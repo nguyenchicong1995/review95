@@ -833,7 +833,22 @@ function getData(){
 			B07LCWYBF7: {href: "https://amzn.to/3Im6BOU",nameProduct: `Cosmo 668ICS750 Island Mount Range Hood`,image: '',summary: ``,slug: ""},
 			B08H8GNPLQ: {href: "https://amzn.to/3fQUay9",nameProduct: `Bowers & Wilkins PI7 Wireless Headphones`,image: '',summary: ``,slug: ""},
 			B08ZRTRLR9: {href: "https://amzn.to/3rG5mmK",nameProduct: `ROG Strix GA15DK Gaming Desktop`,image: '',summary: ``,slug: ""},
-			B08FYVMRM5: {href: "https://amzn.to/3rzTJOh",nameProduct: `SAMSUNG Galaxy S20 FE`,image: '',summary: ``,slug: ""}
+			B08FYVMRM5: {href: "https://amzn.to/3rzTJOh",nameProduct: `SAMSUNG Galaxy S20 FE`,image: '',summary: ``,slug: ""},
+			B098RCQVRB: {href: "https://amzn.to/34dXMbi",nameProduct: `Ninja SS401 Foodi Power Blender`,image: '',summary: ``,slug: ""},
+			B00DRBBRVU: {href: "https://amzn.to/3tX2kgU",nameProduct: `Greenworks 40V Brushless Cordless Blower Vacuum`,image: '',summary: ``,slug: ""},
+			B092KFBTX3: {href: "https://amzn.to/35ez7Ug",nameProduct: `Generac GP3300i Portable Generator`,image: '',summary: ``,slug: ""},
+			B088HJ4VQK: {href: "https://amzn.to/3ol5KXl",nameProduct: `SAMSUNG Odyssey G7 Gaming Monitor`,image: '',summary: ``,slug: ""},
+			B08BCR862L: {href: "https://amzn.to/3o1sD1L",nameProduct: `LG 32" UltraFine Display Ergo Display`,image: '',summary: ``,slug: ""},
+			B09L1HPCPC: {href: "https://amzn.to/33UtjyV",nameProduct: `Canon EOS 4000D / Rebel T100 DSLR Camera`,image: '',summary: ``,slug: ""},
+			B07ZR467YR: {href: "https://amzn.to/3IBiXmd",nameProduct: `FlashForge Adventurer 3 3D Printer`,image: '',summary: ``,slug: ""},
+			B09FXFDGN3: {href: "https://amzn.to/34dY4Pq",nameProduct: `HP 15-inch Laptop`,image: '',summary: ``,slug: ""},
+			B092HVXVM4: {href: "https://amzn.to/3H4RGbt",nameProduct: `Retro Typewriter Keyboard`,image: '',summary: ``,slug: ""},
+			B081ZVRN68: {href: "https://amzn.to/3AuvC7T",nameProduct: `IKTCH 36 inch Hood 900 CFM`,image: '',summary: ``,slug: ""},
+			B09HF6XBPF: {href: "https://amzn.to/3tXNyXh",nameProduct: `Apple Watch Series 7 GPS`,image: '',summary: ``,slug: ""},
+			B08C6XGP4F: {href: "https://amzn.to/33JELO1",nameProduct: `Shark ION Robot Vacuum AV753`,image: '',summary: ``,slug: ""},
+			B08GJR3T43: {href: "https://amzn.to/3G3vr4m",nameProduct: `Meepo Mini 2 Electric Skateboard`,image: '',summary: ``,slug: ""},
+			B00JJ6L6PY: {href: "https://amzn.to/3qYMssq",nameProduct: `SINGER Heavy Duty Sewing Machine `,image: '',summary: ``,slug: ""},
+			B083JXPDL5: {href: "https://amzn.to/3nXFEJw",nameProduct: `Lenovo Tab M10 Plus`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
