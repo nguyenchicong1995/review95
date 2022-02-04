@@ -848,7 +848,22 @@ function getData(){
 			B08C6XGP4F: {href: "https://amzn.to/33JELO1",nameProduct: `Shark ION Robot Vacuum AV753`,image: '',summary: ``,slug: ""},
 			B08GJR3T43: {href: "https://amzn.to/3G3vr4m",nameProduct: `Meepo Mini 2 Electric Skateboard`,image: '',summary: ``,slug: ""},
 			B00JJ6L6PY: {href: "https://amzn.to/3qYMssq",nameProduct: `SINGER Heavy Duty Sewing Machine `,image: '',summary: ``,slug: ""},
-			B083JXPDL5: {href: "https://amzn.to/3nXFEJw",nameProduct: `Lenovo Tab M10 Plus`,image: '',summary: ``,slug: ""}
+			B083JXPDL5: {href: "https://amzn.to/3nXFEJw",nameProduct: `Lenovo Tab M10 Plus`,image: '',summary: ``,slug: ""},
+			B074FBH56N: {href: "https://amzn.to/3rrQXMo",nameProduct: `LEM Big Bite Electric Meat Grinder`,image: '',summary: ``,slug: ""},
+			B08FRRP3YL: {href: "https://amzn.to/34tevY5",nameProduct: `Technivorm Moccamaster KBGT Coffee Maker`,image: '',summary: ``,slug: ""},
+			B017HVWXLS: {href: "https://amzn.to/3rtz0Nw",nameProduct: `Kenwood Chef Titanium Kitchen Machine`,image: '',summary: ``,slug: ""},
+			B0849YQDP1: {href: "https://amzn.to/3siJbU1",nameProduct: `Samsung Galaxy S10+ Plus`,image: '',summary: ``,slug: ""},
+			B08THKWJ23: {href: "https://amzn.to/3saiEIs",nameProduct: `BLACK+DECKER Portable Air Conditioner`,image: '',summary: ``,slug: ""},
+			B0098HR0PY: {href: "https://amzn.to/3rrtzhX",nameProduct: `Weber Spirit E-210 Gas Grill`,image: '',summary: ``,slug: ""},
+			B08FBP36TS: {href: "https://amzn.to/34hXvV0",nameProduct: `Samsung Galaxy Tab S7+`,image: '',summary: ``,slug: ""},
+			B07THBGGMG: {href: "https://amzn.to/34yizXc",nameProduct: `MUSTART Level 2 Portable EV Charger`,image: '',summary: ``,slug: ""},
+			B09QMDMNV3: {href: "https://amzn.to/3gpX6Cd",nameProduct: `Bose Sport Earbuds`,image: '',summary: ``,slug: ""},
+			B07L67KL81: {href: "https://amzn.to/3L7lgzD",nameProduct: `BaBylissPRO Clipper`,image: '',summary: ``,slug: ""},
+			B09HVC79PC: {href: "https://amzn.to/3rnbhhL",nameProduct: `Acer Aspire 5 A515-46-R3UB HD IPS Display `,image: '',summary: ``,slug: ""},
+			B07WC2XDMH: {href: "https://amzn.to/3sgQJ9X",nameProduct: `Garmin Vivoactive 4S GPS Smartwatch`,image: '',summary: ``,slug: ""},
+			B01728NLRG: {href: "https://amzn.to/3uqMifn",nameProduct: `Coway Airmega AP-1512HH HEPA Purifier`,image: '',summary: ``,slug: ""},
+			B07LGDYV3C: {href: "https://amzn.to/3L9WoHx",nameProduct: `Medify MA-40 Air Purifier`,image: '',summary: ``,slug: ""},
+			B07XWGWPH5: {href: "https://amzn.to/3IUq4GK",nameProduct: `OnePlus Nord N200 5G`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
