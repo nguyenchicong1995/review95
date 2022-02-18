@@ -863,7 +863,22 @@ function getData(){
 			B07WC2XDMH: {href: "https://amzn.to/3sgQJ9X",nameProduct: `Garmin Vivoactive 4S GPS Smartwatch`,image: '',summary: ``,slug: ""},
 			B01728NLRG: {href: "https://amzn.to/3uqMifn",nameProduct: `Coway Airmega AP-1512HH HEPA Purifier`,image: '',summary: ``,slug: ""},
 			B07LGDYV3C: {href: "https://amzn.to/3L9WoHx",nameProduct: `Medify MA-40 Air Purifier`,image: '',summary: ``,slug: ""},
-			B07XWGWPH5: {href: "https://amzn.to/3IUq4GK",nameProduct: `OnePlus Nord N200 5G`,image: '',summary: ``,slug: ""}
+			B07XWGWPH5: {href: "https://amzn.to/3IUq4GK",nameProduct: `OnePlus Nord N200 5G`,image: '',summary: ``,slug: ""},
+			B00KBNWPJ0: {href: "https://amzn.to/3sTivJS",nameProduct: `Bounty Hunter Land Metal Detector`,image: '',summary: ``,slug: ""},
+			B00HNUFRQC: {href: "https://amzn.to/3BxceaO",nameProduct: `Dyson DC65 Animal Upright Vacuum Cleaner`,image: '',summary: ``,slug: ""},
+			B08F6Z89LN: {href: "https://amzn.to/33wdqPb",nameProduct: `Bissell SpinWave Hard Floor Expert Pet Robot`,image: '',summary: ``,slug: ""},
+			B07K7CSVJ8: {href: "https://amzn.to/3LJab83",nameProduct: `Ring Spotlight Cam Security Camera`,image: '',summary: ``,slug: ""},
+			B088S66VM3: {href: "https://amzn.to/3rYwGOA",nameProduct: `Nikon COOLPIX B500 Classic Bundle`,image: '',summary: ``,slug: ""},
+			B08Z7RG2Q6: {href: "https://amzn.to/3rXRrKb",nameProduct: `Hiseeu Wireless Security Camera System`,image: '',summary: ``,slug: ""},
+			B07YZSBQ4Y: {href: "https://amzn.to/3gVkTu3",nameProduct: `Edifier S360DB Bookshelf Speaker`,image: '',summary: ``,slug: ""},
+			B00DS4767K: {href: "https://amzn.to/3rZuQ01",nameProduct: `Breville BES870BSXL the Barista Express`,image: '',summary: ``,slug: ""},
+			B07CJ3CYF7: {href: "https://amzn.to/3v0i03y",nameProduct: `Mr. Coffee CoffeeHouse Espresso Maker`,image: '',summary: ``,slug: ""},
+			B09D8KM95V: {href: "https://amzn.to/3v07oBN",nameProduct: `LG Ultragear GP9 Portable Gaming Speaker`,image: '',summary: ``,slug: ""},
+			B0931ZZBJ9: {href: "https://amzn.to/3sUpJxv",nameProduct: `iPad Pro 12.9-inch`,image: '',summary: ``,slug: ""},
+			B09BTKN7ZV: {href: "https://amzn.to/3p078yF",nameProduct: `Philips Fidelio L3 Wireless Headphones`,image: '',summary: ``,slug: ""},
+			B097M67TVS: {href: "https://amzn.to/3sKXFMO",nameProduct: `KUU YOBOOK Laptop`,image: '',summary: ``,slug: ""},
+			B07NP39T84: {href: "https://amzn.to/3sMFXZr",nameProduct: `Minolta M35Z Bridge Digital Camera`,image: '',summary: ``,slug: ""},
+			B08MQLDFF6: {href: "https://amzn.to/36ondIa",nameProduct: `Echo Show 15 Full HD 15.6" smart display`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
