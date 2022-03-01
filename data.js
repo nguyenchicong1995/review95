@@ -878,7 +878,22 @@ function getData(){
 			B09BTKN7ZV: {href: "https://amzn.to/3p078yF",nameProduct: `Philips Fidelio L3 Wireless Headphones`,image: '',summary: ``,slug: ""},
 			B097M67TVS: {href: "https://amzn.to/3sKXFMO",nameProduct: `KUU YOBOOK Laptop`,image: '',summary: ``,slug: ""},
 			B07NP39T84: {href: "https://amzn.to/3sMFXZr",nameProduct: `Minolta M35Z Bridge Digital Camera`,image: '',summary: ``,slug: ""},
-			B08MQLDFF6: {href: "https://amzn.to/36ondIa",nameProduct: `Echo Show 15 Full HD 15.6" smart display`,image: '',summary: ``,slug: ""}
+			B08MQLDFF6: {href: "https://amzn.to/36ondIa",nameProduct: `Echo Show 15 Full HD 15.6" smart display`,image: '',summary: ``,slug: ""},
+			B08H5X1WZ9: {href: "https://amzn.to/3IyJbpR",nameProduct: `Polaris 9650iQ Sport Robotic Cleaner`,image: '',summary: ``,slug: ""},
+			B09HGYTDTZ: {href: "https://amzn.to/3BZnDjQ",nameProduct: `ECOFLOW RIVER 288Wh Portable Power Station`,image: '',summary: ``,slug: ""},
+			B00VGGVQCI: {href: "https://amzn.to/3vzE6dc",nameProduct: `Breville Grind Control Coffee Maker`,image: '',summary: ``,slug: ""},
+			B07MYW4Q8S: {href: "https://amzn.to/3HxN39r",nameProduct: `Audioengine A2+ Plus Wireless Speaker`,image: '',summary: ``,slug: ""},
+			B08NWD7K8H: {href: "https://amzn.to/35bukDH",nameProduct: `Motorola One 5G Ace`,image: '',summary: ``,slug: ""},
+			B08HC29GC4: {href: "https://amzn.to/3sxcoMB",nameProduct: `Vitamix A3500 Ascent Series Smart Blender`,image: '',summary: ``,slug: ""},
+			B09NY1QJYL: {href: "https://amzn.to/3IzVxhu",nameProduct: `Samsung Galaxy Book Pro 360 Laptop`,image: '',summary: ``,slug: ""},
+			B09HVC79PC: {href: "https://amzn.to/3C3fOd1",nameProduct: `Acer Aspire 5 A515-46-R3UB`,image: '',summary: ``,slug: ""},
+			B08Z38SCL8: {href: "https://amzn.to/3K5VPxe",nameProduct: `LawnMaster Cordless 21-Inch Lawn Mower `,image: '',summary: ``,slug: ""},
+			B094YNY7QF: {href: "https://amzn.to/3vsYVHw",nameProduct: `Smeg 2-Slice Toaster Matte Champagne`,image: '',summary: ``,slug: ""},
+			B002M1LGJ4: {href: "https://amzn.to/3vsWlkH",nameProduct: `DYMO 4XL Thermal Printer`,image: '',summary: ``,slug: ""},
+			B08SP5GYJP: {href: "https://amzn.to/3vp82ZG",nameProduct: `iRobot Roomba 694 Robot Vacuum-Wi-Fi`,image: '',summary: ``,slug: ""},
+			B08L45W2V9: {href: "https://amzn.to/35nFy7Q",nameProduct: `Champion Power Equipment Inverter Generator`,image: '',summary: ``,slug: ""},
+			B07XQSTXDZ: {href: "https://amzn.to/3K8NfOf",nameProduct: `Apple Watch Series 5`,image: '',summary: ``,slug: ""},
+			B07F618LKC: {href: "https://amzn.to/3M9Zfki",nameProduct: `COSTWAY Compact Laundry Dryer`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
