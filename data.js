@@ -893,7 +893,22 @@ function getData(){
 			B08SP5GYJP: {href: "https://amzn.to/3vp82ZG",nameProduct: `iRobot Roomba 694 Robot Vacuum-Wi-Fi`,image: '',summary: ``,slug: ""},
 			B08L45W2V9: {href: "https://amzn.to/35nFy7Q",nameProduct: `Champion Power Equipment Inverter Generator`,image: '',summary: ``,slug: ""},
 			B07XQSTXDZ: {href: "https://amzn.to/3K8NfOf",nameProduct: `Apple Watch Series 5`,image: '',summary: ``,slug: ""},
-			B07F618LKC: {href: "https://amzn.to/3M9Zfki",nameProduct: `COSTWAY Compact Laundry Dryer`,image: '',summary: ``,slug: ""}
+			B07F618LKC: {href: "https://amzn.to/3M9Zfki",nameProduct: `COSTWAY Compact Laundry Dryer`,image: '',summary: ``,slug: ""},
+			B092VSKM2D: {href: "https://amzn.to/3KDSHZL",nameProduct: `BLUETTI Portable Power Station EB70S`,image: '',summary: ``,slug: ""},
+			B08CVSL4K5: {href: "https://amzn.to/3vPZmMa",nameProduct: `Roborock E4 Mop Robot Vacuum`,image: '',summary: ``,slug: ""},
+			B078J119BC: {href: "https://amzn.to/361ItTP",nameProduct: `Panasonic LUMIX GH5S Camera`,image: '',summary: ``,slug: ""},
+			B01FIG1JIM: {href: "https://amzn.to/3hXc5EC",nameProduct: `Dyson Supersonic Hair Dryer`,image: '',summary: ``,slug: ""},
+			B07ZVCPDB4: {href: "https://amzn.to/3hYzLbA",nameProduct: `Roborock S5 MAX Robot Vacuum and Mop`,image: '',summary: ``,slug: ""},
+			B00YFT914I: {href: "https://amzn.to/3pXhT5l",nameProduct: `Pulsar G2319N 2,300W Portable Generator`,image: '',summary: ``,slug: ""},
+			B00LFVV8CM: {href: "https://amzn.to/3sYzLP6",nameProduct: `Vitamix Professional Series 750 Blender`,image: '',summary: ``,slug: ""},
+			B087CQVC9G: {href: "https://amzn.to/3MEfDJU",nameProduct: `MIDEA MAP08R1CWT Portable Air Conditioner`,image: '',summary: ``,slug: ""},
+			B00BZVTZ54: {href: "https://amzn.to/3pUTq0C",nameProduct: `Nikon D7100 SLR Digital Body Only Camera`,image: '',summary: ``,slug: ""},
+			B08WLXRHFJ: {href: "https://amzn.to/3vWqZDo",nameProduct: `Bang & Olufsen Beoplay EQ`,image: '',summary: ``,slug: ""},
+			B0758JHZM3: {href: "https://amzn.to/3vWz6jd",nameProduct: `Vitamix E310 Explorian Blender`,image: '',summary: ``,slug: ""},
+			B091YJQGVW: {href: "https://amzn.to/3t09yzM",nameProduct: `Hisense ULED Premium 55-InchSmart TV`,image: '',summary: ``,slug: ""},
+			B008FV5R2C: {href: "https://amzn.to/3pVoInV",nameProduct: `Snow Joe SJ623E Electric Snow Thrower`,image: '',summary: ``,slug: ""},
+			B00I8R4VZC: {href: "https://amzn.to/3MC4oBV",nameProduct: `Dyson Cool AM07 Air Multiplier Tower Fan`,image: '',summary: ``,slug: ""},
+			B0932FPBV8: {href: "https://amzn.to/3tPrGeK",nameProduct: `Apple iMac`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
