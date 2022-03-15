@@ -908,7 +908,22 @@ function getData(){
 			B091YJQGVW: {href: "https://amzn.to/3t09yzM",nameProduct: `Hisense ULED Premium 55-InchSmart TV`,image: '',summary: ``,slug: ""},
 			B008FV5R2C: {href: "https://amzn.to/3pVoInV",nameProduct: `Snow Joe SJ623E Electric Snow Thrower`,image: '',summary: ``,slug: ""},
 			B00I8R4VZC: {href: "https://amzn.to/3MC4oBV",nameProduct: `Dyson Cool AM07 Air Multiplier Tower Fan`,image: '',summary: ``,slug: ""},
-			B0932FPBV8: {href: "https://amzn.to/3tPrGeK",nameProduct: `Apple iMac`,image: '',summary: ``,slug: ""}
+			B0932FPBV8: {href: "https://amzn.to/3tPrGeK",nameProduct: `Apple iMac`,image: '',summary: ``,slug: ""},
+			B00I8R4VZC: {href: "https://amzn.to/3w9CYxp",nameProduct: `Dyson Cool AM07 Air Multiplier Tower Fan`,image: '',summary: ``,slug: ""},
+			B0798LCJK9: {href: "https://amzn.to/360Dgfd",nameProduct: `Dyson Cyclone V10 Animal Vacuum Cleaner`,image: '',summary: ``,slug: ""},
+			B01CRA5WP8: {href: "https://amzn.to/3tZ6ZgF",nameProduct: `Dyson Pure Cool Link TP02 Air Purifier`,image: '',summary: ``,slug: ""},
+			B09DYVJS9Z: {href: "https://amzn.to/3KLo3O1",nameProduct: `Dell S3222HN 32-inch FHD Curved Monitor`,image: '',summary: ``,slug: ""},
+			B07VL6F1G2: {href: "https://amzn.to/3waBLGg",nameProduct: `Amcrest 4K Security Camera System`,image: '',summary: ``,slug: ""},
+			B08FCWRXQR: {href: "https://amzn.to/3w7Emk4",nameProduct: `Ring Floodlight Cam Wired Pro`,image: '',summary: ``,slug: ""},
+			B07RQC1GHZ: {href: "https://amzn.to/3tdgDx3",nameProduct: `Coredy R750 Robot Vacuum Cleaner`,image: '',summary: ``,slug: ""},
+			B098LV9KT9: {href: "https://amzn.to/3u1thOK",nameProduct: `BLUETTI EB55 Portable Power Station`,image: '',summary: ``,slug: ""},
+			B07HPS9XJR: {href: "https://amzn.to/3tcUAql",nameProduct: `Marshall Stanmore II Wireless Bluetooth Speaker`,image: '',summary: ``,slug: ""},
+			B08QZTP239: {href: "https://amzn.to/3KKoisz",nameProduct: `Shark HE601 Air Purifier`,image: '',summary: ``,slug: ""},
+			B092VCXDB1: {href: "https://amzn.to/3KJ10Dt",nameProduct: `yeedi Vac Station Robot Vacuum`,image: '',summary: ``,slug: ""},
+			B086Q9YGD3: {href: "https://amzn.to/3teS7vi",nameProduct: `Microsoft Surface Headphones 2`,image: '',summary: ``,slug: ""},
+			B09JKZWF2G: {href: "https://amzn.to/3w97NlG",nameProduct: `HP 24" All-in-One Desktop`,image: '',summary: ``,slug: ""},
+			B01K0W8LTE: {href: "https://amzn.to/3tdKVQe",nameProduct: `Cuisinart Convection Toaster Oven Airfryer`,image: '',summary: ``,slug: ""},
+			B07T63VSMC: {href: "https://amzn.to/3CMqAVb",nameProduct: `Gyroor Warrior Off Road Hoverboard`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
