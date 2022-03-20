@@ -923,7 +923,22 @@ function getData(){
 			B086Q9YGD3: {href: "https://amzn.to/3teS7vi",nameProduct: `Microsoft Surface Headphones 2`,image: '',summary: ``,slug: ""},
 			B09JKZWF2G: {href: "https://amzn.to/3w97NlG",nameProduct: `HP 24" All-in-One Desktop`,image: '',summary: ``,slug: ""},
 			B01K0W8LTE: {href: "https://amzn.to/3tdKVQe",nameProduct: `Cuisinart Convection Toaster Oven Airfryer`,image: '',summary: ``,slug: ""},
-			B07T63VSMC: {href: "https://amzn.to/3CMqAVb",nameProduct: `Gyroor Warrior Off Road Hoverboard`,image: '',summary: ``,slug: ""}
+			B07T63VSMC: {href: "https://amzn.to/3CMqAVb",nameProduct: `Gyroor Warrior Off Road Hoverboard`,image: '',summary: ``,slug: ""},
+			B09K8ZY7KF: {href: "https://amzn.to/3inplTi",nameProduct: `Toshiba 55-inch 4K UHD Smart Fire TV`,image: '',summary: ``,slug: ""},
+			B097D2JBQJ: {href: "https://amzn.to/3tpEPwo",nameProduct: `Neabot N2 Robot Vacuum `,image: '',summary: ``,slug: ""},
+			B09BJN3CX4: {href: "https://amzn.to/3KYLYtr",nameProduct: `LEVOIT Heavy Duty Air Purifier`,image: '',summary: ``,slug: ""},
+			B01DQ19AP0: {href: "https://amzn.to/365BGsR",nameProduct: `Dewalt Hammer Drill & Impact Driver Kit`,image: '',summary: ``,slug: ""},
+			B086Q54K53: {href: "https://amzn.to/3tlgRCh",nameProduct: `Ring Video Doorbell Pro 2`,image: '',summary: ``,slug: ""},
+			B075L7CJN3: {href: "https://amzn.to/3JpUqkY",nameProduct: `FIRMAN Extended Run Time Inverter Generator`,image: '',summary: ``,slug: ""},
+			B097VJS3Y3: {href: "https://amzn.to/3wCSaDF",nameProduct: `Amazon eero mesh Wi-Fi 6 system`,image: '',summary: ``,slug: ""},
+			B085RMD5TP: {href: "https://amzn.to/3qkb0vk",nameProduct: `Logitech G915 LIGHTSPEED Gaming Keyboard`,image: '',summary: ``,slug: ""},
+			B09LT8THGS: {href: "https://amzn.to/3N2NdcX",nameProduct: `Dyson Purifier Cool TP07 Smart Air Purifier`,image: '',summary: ``,slug: ""},
+			B09HF1DC1J: {href: "https://amzn.to/3uac8md",nameProduct: `Apple Watch Series 7 GPS`,image: '',summary: ``,slug: ""},
+			B07VFY4MXM: {href: "https://amzn.to/3N1cjsN",nameProduct: `Philips 3200 Espresso Machine`,image: '',summary: ``,slug: ""},
+			B09BBM9Y9G: {href: "https://amzn.to/3N5VAnT",nameProduct: `KitchenAid K400 Variable Speed Blender`,image: '',summary: ``,slug: ""},
+			B01FIG1JIM: {href: "https://amzn.to/3IjS8Tj",nameProduct: `Dyson Supersonic Hair Dryer`,image: '',summary: ``,slug: ""},
+			B07GZ41LYJ: {href: "https://amzn.to/3wn93C6",nameProduct: `Philips Norelco Shaver 9000 Electric Shaver`,image: '',summary: ``,slug: ""},
+			B09B17DVYR: {href: "https://amzn.to/3to0EfA",nameProduct: `Lenovo Tab P11 Plus`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
