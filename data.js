@@ -938,7 +938,22 @@ function getData(){
 			B09BBM9Y9G: {href: "https://amzn.to/3N5VAnT",nameProduct: `KitchenAid K400 Variable Speed Blender`,image: '',summary: ``,slug: ""},
 			B01FIG1JIM: {href: "https://amzn.to/3IjS8Tj",nameProduct: `Dyson Supersonic Hair Dryer`,image: '',summary: ``,slug: ""},
 			B07GZ41LYJ: {href: "https://amzn.to/3wn93C6",nameProduct: `Philips Norelco Shaver 9000 Electric Shaver`,image: '',summary: ``,slug: ""},
-			B09B17DVYR: {href: "https://amzn.to/3to0EfA",nameProduct: `Lenovo Tab P11 Plus`,image: '',summary: ``,slug: ""}
+			B09B17DVYR: {href: "https://amzn.to/3to0EfA",nameProduct: `Lenovo Tab P11 Plus`,image: '',summary: ``,slug: ""},
+			B01IBRTN88: {href: "https://amzn.to/3DhsPjy",nameProduct: `Dyson Pure Hot+Cool Link HP02 Air Purifier`,image: '',summary: ``,slug: ""},
+			B09QMDS7ZJ: {href: "https://amzn.to/3wOd5TY",nameProduct: `JBL Boombox 2 Portable Bluetooth Speaker`,image: '',summary: ``,slug: ""},
+			B09BFSCCNB: {href: "https://amzn.to/3wFaufa",nameProduct: `Samsung Galaxy S21 FE`,image: '',summary: ``,slug: ""},
+			B091SV7J5G: {href: "https://amzn.to/3iFHsDX",nameProduct: `Mcilpoog WS-203 Espresso Coffee Machine`,image: '',summary: ``,slug: ""},
+			B085BPCV7W: {href: "https://amzn.to/3tIlO8l",nameProduct: `Xiaomi Mijia Robot Robot Vacuum`,image: '',summary: ``,slug: ""},
+			B07YDNCL3D: {href: "https://amzn.to/3ILfj9b",nameProduct: `WantJoin Professional Commercial Blender`,image: '',summary: ``,slug: ""},
+			B07GRBY9NP: {href: "https://amzn.to/3JNNkH6",nameProduct: `Ambient Weather WS-2000 Smart Weather`,image: '',summary: ``,slug: ""},
+			B0131RG6VK: {href: "https://amzn.to/3JDQOMp",nameProduct: `Google Nest Learning Thermostat`,image: '',summary: ``,slug: ""},
+			B07NQT85FC: {href: "https://amzn.to/36TMk5X",nameProduct: `ecobee SmartThermostat`,image: '',summary: ``,slug: ""},
+			B08GKZC2BN: {href: "https://amzn.to/3tEtHvz",nameProduct: `Epson LS300 3LCD Smart Laser Projector`,image: '',summary: ``,slug: ""},
+			B0849K4FHJ: {href: "https://amzn.to/3DdegOh",nameProduct: `Miko Shiatsu Foot Massager Machine`,image: '',summary: ``,slug: ""},
+			B08XPC3WFQ: {href: "https://amzn.to/36yloZB",nameProduct: `ASUS TUF Dash 15 Gaming Laptop`,image: '',summary: ``,slug: ""},
+			B01G5Y6D14: {href: "https://amzn.to/3JPAHeL",nameProduct: `Samsung 2.2 Cu Ft Front Load Washer`,image: '',summary: ``,slug: ""},
+			B079K8P52N: {href: "https://amzn.to/386BUAr",nameProduct: `Rabbit Air MinusA2 HEPA Air Purifier`,image: '',summary: ``,slug: ""},
+			B08H8486Y7: {href: "https://amzn.to/36PGpP8",nameProduct: `Bowers & Wilkins PI7 Headphones`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
