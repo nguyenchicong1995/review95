@@ -953,7 +953,22 @@ function getData(){
 			B08XPC3WFQ: {href: "https://amzn.to/36yloZB",nameProduct: `ASUS TUF Dash 15 Gaming Laptop`,image: '',summary: ``,slug: ""},
 			B01G5Y6D14: {href: "https://amzn.to/3JPAHeL",nameProduct: `Samsung 2.2 Cu Ft Front Load Washer`,image: '',summary: ``,slug: ""},
 			B079K8P52N: {href: "https://amzn.to/386BUAr",nameProduct: `Rabbit Air MinusA2 HEPA Air Purifier`,image: '',summary: ``,slug: ""},
-			B08H8486Y7: {href: "https://amzn.to/36PGpP8",nameProduct: `Bowers & Wilkins PI7 Headphones`,image: '',summary: ``,slug: ""}
+			B08H8486Y7: {href: "https://amzn.to/36PGpP8",nameProduct: `Bowers & Wilkins PI7 Headphones`,image: '',summary: ``,slug: ""},
+			B08FCWRXQR: {href: "https://amzn.to/38sIsJV",nameProduct: `Ring Floodlight Cam Wired Pro`,image: '',summary: ``,slug: ""},
+			B08P2Q83BY: {href: "https://amzn.to/3NJOZzT",nameProduct: `Jackery Solar Generator 1000`,image: '',summary: ``,slug: ""},
+			B08QMMJ68Z: {href: "https://amzn.to/3Jah6Vo",nameProduct: `Sentern Portable Dryer Front Load`,image: '',summary: ``,slug: ""},
+			B08RX3343D: {href: "https://amzn.to/3J4Aao3",nameProduct: `SanDisk 4TB Extreme PRO Portable SSD`,image: '',summary: ``,slug: ""},
+			B08D6LZKV8: {href: "https://amzn.to/3DEysc7",nameProduct: `Withings ScanWatch`,image: '',summary: ``,slug: ""},
+			B08N5KWB9H: {href: "https://amzn.to/3r0DRoD",nameProduct: `Apple MacBook Air Laptop`,image: '',summary: ``,slug: ""},
+			B07VGRJDFY: {href: "https://amzn.to/38qTdfL",nameProduct: `Nintendo Switch`,image: '',summary: ``,slug: ""},
+			B08PP2MKQY: {href: "https://amzn.to/3u4uF4l",nameProduct: `eufyCam 2C Pro 4-Cam Kit`,image: '',summary: ``,slug: ""},
+			B09JQSLL92: {href: "https://amzn.to/3r0zs5f",nameProduct: `Apple MacBook Pro`,image: '',summary: ``,slug: ""},
+			B08528YFM3: {href: "https://amzn.to/3xj2a5l",nameProduct: `Beats Studio3 Headphones`,image: '',summary: ``,slug: ""},
+			B072KNGV1K: {href: "https://amzn.to/3j5bRvQ",nameProduct: `ILIFE V8s Robot Vacuum`,image: '',summary: ``,slug: ""},
+			B086FS4BSV: {href: "https://amzn.to/3x2oQ9y",nameProduct: `Harman Kardon Aura Studio 3`,image: '',summary: ``,slug: ""},
+			B07CX95VRT: {href: "https://amzn.to/3j9sOoB",nameProduct: `Vitamix Explorian Blender`,image: '',summary: ``,slug: ""},
+			B08V3VFXCN: {href: "https://amzn.to/37duwma",nameProduct: `Fellow Ode Brew Grinder`,image: '',summary: ``,slug: ""},
+			B00YEYKK8U: {href: "https://amzn.to/3J5VvO6",nameProduct: `OXO Brew Coffee Maker`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
