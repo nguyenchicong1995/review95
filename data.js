@@ -968,7 +968,22 @@ function getData(){
 			B086FS4BSV: {href: "https://amzn.to/3x2oQ9y",nameProduct: `Harman Kardon Aura Studio 3`,image: '',summary: ``,slug: ""},
 			B07CX95VRT: {href: "https://amzn.to/3j9sOoB",nameProduct: `Vitamix Explorian Blender`,image: '',summary: ``,slug: ""},
 			B08V3VFXCN: {href: "https://amzn.to/37duwma",nameProduct: `Fellow Ode Brew Grinder`,image: '',summary: ``,slug: ""},
-			B00YEYKK8U: {href: "https://amzn.to/3J5VvO6",nameProduct: `OXO Brew Coffee Maker`,image: '',summary: ``,slug: ""}
+			B00YEYKK8U: {href: "https://amzn.to/3J5VvO6",nameProduct: `OXO Brew Coffee Maker`,image: '',summary: ``,slug: ""},
+			B005ZXK5L6: {href: "https://amzn.to/360PPaD",nameProduct: `Vitamix Explorian Blender`,image: '',summary: ``,slug: ""},
+			B08JF3FFDY: {href: "https://amzn.to/379Rzii",nameProduct: `BenQ GW2780T IPS Business Monitor`,image: '',summary: ``,slug: ""},
+			B08KHMHZ3F: {href: "https://amzn.to/3JtnYNV",nameProduct: `VIZIO V-Series HDR Smart TV`,image: '',summary: ``,slug: ""},
+			B08KTRBHP1: {href: "https://amzn.to/3rg9Y3Y",nameProduct: `WD 18TB Elements Desktop Hard Drive`,image: '',summary: ``,slug: ""},
+			B08BF4CZSV: {href: "https://amzn.to/3E36yq4",nameProduct: `HP 24mh FHD Monitor`,image: '',summary: ``,slug: ""},
+			B09FXFDGN3: {href: "https://amzn.to/3vclBK2",nameProduct: `HP 15-inch Laptop`,image: '',summary: ``,slug: ""},
+			B096V6RZ22: {href: "https://amzn.to/3LWDcg8",nameProduct: `ASUS TUF Gaming F17 Gaming Laptop`,image: '',summary: ``,slug: ""},
+			B09B8DQ26F: {href: "https://amzn.to/3usOzpW",nameProduct: `Oculus Quest 2`,image: '',summary: ``,slug: ""},
+			B09HH8B79P: {href: "https://amzn.to/3JoZi97",nameProduct: `DJI Mavic 3 Camera Drone`,image: '',summary: ``,slug: ""},
+			B07C52PJH4: {href: "https://amzn.to/372NfkZ",nameProduct: `Brilliant Smart Home Control`,image: '',summary: ``,slug: ""},
+			B08ZSQPPZX: {href: "https://amzn.to/3O1kl5h",nameProduct: `ICECO VL90 ProD Portable Refrigerator`,image: '',summary: ``,slug: ""},
+			B096BK7W5M: {href: "https://amzn.to/3xh7AgY",nameProduct: `SAMSUNG Galaxy Watch 4`,image: '',summary: ``,slug: ""},
+			B08DFCWVZ4: {href: "https://amzn.to/3uupuem",nameProduct: `Fitbit Sense Advanced Smartwatch`,image: '',summary: ``,slug: ""},
+			B083C4QTBW: {href: "https://amzn.to/3vbqm6K",nameProduct: `Logitech MX Keys Wireless Keyboard`,image: '',summary: ``,slug: ""},
+			B09BG7CR9C: {href: "https://amzn.to/37agP83",nameProduct: `Miele CM 6160 MilkPerfection Coffee Maker`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
