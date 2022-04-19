@@ -983,7 +983,22 @@ function getData(){
 			B096BK7W5M: {href: "https://amzn.to/3xh7AgY",nameProduct: `SAMSUNG Galaxy Watch 4`,image: '',summary: ``,slug: ""},
 			B08DFCWVZ4: {href: "https://amzn.to/3uupuem",nameProduct: `Fitbit Sense Advanced Smartwatch`,image: '',summary: ``,slug: ""},
 			B083C4QTBW: {href: "https://amzn.to/3vbqm6K",nameProduct: `Logitech MX Keys Wireless Keyboard`,image: '',summary: ``,slug: ""},
-			B09BG7CR9C: {href: "https://amzn.to/37agP83",nameProduct: `Miele CM 6160 MilkPerfection Coffee Maker`,image: '',summary: ``,slug: ""}
+			B09BG7CR9C: {href: "https://amzn.to/37agP83",nameProduct: `Miele CM 6160 MilkPerfection Coffee Maker`,image: '',summary: ``,slug: ""},
+			B07MSYTQQ1: {href: "https://amzn.to/3xGRzRE",nameProduct: `Fitbit Versa Lite Edition Smart Watch`,image: '',summary: ``,slug: ""},
+			B07RHZ6CVX: {href: "https://amzn.to/3uVk6Ry",nameProduct: `eufy by Anker RoboVac G30 Robot Vacuum`,image: '',summary: ``,slug: ""},
+			B09MQGXD4P: {href: "https://amzn.to/3L0TXqf",nameProduct: `ecobee SmartThermostat`,image: '',summary: ``,slug: ""},
+			B086Z6XSW4: {href: "https://amzn.to/3uTRf08",nameProduct: `TheraGun Elite Massage Gun…`,image: '',summary: ``,slug: ""},
+			B014LFINIA: {href: "https://amzn.to/3KV8zYl",nameProduct: `Sonos Play 5 Wireless Smart Speaker`,image: '',summary: ``,slug: ""},
+			B07SD9BSPY: {href: "https://amzn.to/3KXHkw2",nameProduct: `Apple iPod Touch`,image: '',summary: ``,slug: ""},
+			B07TWFWJDZ: {href: "https://amzn.to/3vlfIuk",nameProduct: `Fitbit Versa 2 Smartwatch`,image: '',summary: ``,slug: ""},
+			B09V3J32N8: {href: "https://amzn.to/3rC0yzE",nameProduct: ` Apple iPad Air `,image: '',summary: ``,slug: ""},
+			B07WNY2WKG: {href: "https://amzn.to/37Wb5Pj",nameProduct: `NETGEAR Orbi WiFi 6 System`,image: '',summary: ``,slug: ""},
+			B086Z3S3MY: {href: "https://amzn.to/3rzUWWW",nameProduct: `Samsung Galaxy Tab S6 Lite`,image: '',summary: ``,slug: ""},
+			B098X5JKVP: {href: "https://amzn.to/3rApS9v",nameProduct: `AIRROBO T9 Robot Vacuum`,image: '',summary: ``,slug: ""},
+			B09XD5MVL9: {href: "https://amzn.to/3JOoqGN",nameProduct: `OMEN 30L NVIDIA Gaming Desktop PC`,image: '',summary: ``,slug: ""},
+			B0028AYQDC: {href: "https://amzn.to/3rAuCvF",nameProduct: `Whynter 14,000 BTU Portable Air Conditioner`,image: '',summary: ``,slug: ""},
+			B07DC47DRZ: {href: "https://amzn.to/3K1Lv96",nameProduct: `CIARRA Range Hood 30 inch`,image: '',summary: ``,slug: ""},
+			B008H4SLV6: {href: "https://amzn.to/3Mi7Z6X",nameProduct: `Vitamix 5200 Blender Professional`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
