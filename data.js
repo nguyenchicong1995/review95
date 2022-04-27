@@ -998,7 +998,22 @@ function getData(){
 			B09XD5MVL9: {href: "https://amzn.to/3JOoqGN",nameProduct: `OMEN 30L NVIDIA Gaming Desktop PC`,image: '',summary: ``,slug: ""},
 			B0028AYQDC: {href: "https://amzn.to/3rAuCvF",nameProduct: `Whynter 14,000 BTU Portable Air Conditioner`,image: '',summary: ``,slug: ""},
 			B07DC47DRZ: {href: "https://amzn.to/3K1Lv96",nameProduct: `CIARRA Range Hood 30 inch`,image: '',summary: ``,slug: ""},
-			B008H4SLV6: {href: "https://amzn.to/3Mi7Z6X",nameProduct: `Vitamix 5200 Blender Professional`,image: '',summary: ``,slug: ""}
+			B008H4SLV6: {href: "https://amzn.to/3Mi7Z6X",nameProduct: `Vitamix 5200 Blender Professional`,image: '',summary: ``,slug: ""},
+			B07H2W9Y3W: {href: "https://amzn.to/3EPP8hi",nameProduct: `FLEXISPOT EC1 Standing Desk`,image: '',summary: ``,slug: ""},
+			B07RQC1GHZ: {href: "https://amzn.to/3LlS1ZK",nameProduct: `Coredy R750 Robot Vacuum Cleaner`,image: '',summary: ``,slug: ""},
+			B082HG76CB: {href: "https://amzn.to/3EZz9x9",nameProduct: `MASTER COOK 3 Burner Grill`,image: '',summary: ``,slug: ""},
+			B01K0W8LTE: {href: "https://amzn.to/38uUkeb",nameProduct: `Cuisinart Airfryer Toaster Convection Oven`,image: '',summary: ``,slug: ""},
+			B09TQYZQYX: {href: "https://amzn.to/3KqOVSF",nameProduct: `Samsung Galaxy Book Flex2 Alpha`,image: '',summary: ``,slug: ""},
+			B07JBV8WVY: {href: "https://amzn.to/3LqaLag",nameProduct: `Danby 18 Inch Built in Dishwasher`,image: '',summary: ``,slug: ""},
+			B096BK7W5M: {href: "https://amzn.to/3EQHuDj",nameProduct: `SAMSUNG Galaxy Watch 4`,image: '',summary: ``,slug: ""},
+			B079K8P52N: {href: "https://amzn.to/3vnjmFq",nameProduct: `Rabbit Air MinusA2 Air Purifier`,image: '',summary: ``,slug: ""},
+			B07VGRJDFY: {href: "https://amzn.to/3khHHG9",nameProduct: `Nintendo Switch`,image: '',summary: ``,slug: ""},
+			B09G95JSRJ: {href: "https://amzn.to/3ETFGth",nameProduct: `Apple Watch SE`,image: '',summary: ``,slug: ""},
+			B07CZ3SKK8: {href: "https://amzn.to/3kdOQaB",nameProduct: `Blackstone Cooking Station`,image: '',summary: ``,slug: ""},
+			B00004RDF0: {href: "https://amzn.to/3rVVgiM",nameProduct: `Lello 4080 Musso Lussino Ice Cream Maker`,image: '',summary: ``,slug: ""},
+			B07G4BYB7J: {href: "https://amzn.to/36QGOBd",nameProduct: `Versace VE2150Q`,image: '',summary: ``,slug: ""},
+			B08SJTW9LK: {href: "B08SJTW9LK",nameProduct: `ASUS ROG Strix G15 Gaming Laptop`,image: '',summary: ``,slug: ""},
+			B08QW9L18V: {href: "https://amzn.to/38psuQG",nameProduct: `Shark IZ482H Vertex Cordless Stick Vacuum`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
