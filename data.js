@@ -1012,8 +1012,18 @@ function getData(){
 			B07CZ3SKK8: {href: "https://amzn.to/3kdOQaB",nameProduct: `Blackstone Cooking Station`,image: '',summary: ``,slug: ""},
 			B00004RDF0: {href: "https://amzn.to/3rVVgiM",nameProduct: `Lello 4080 Musso Lussino Ice Cream Maker`,image: '',summary: ``,slug: ""},
 			B07G4BYB7J: {href: "https://amzn.to/36QGOBd",nameProduct: `Versace VE2150Q`,image: '',summary: ``,slug: ""},
-			B08SJTW9LK: {href: "B08SJTW9LK",nameProduct: `ASUS ROG Strix G15 Gaming Laptop`,image: '',summary: ``,slug: ""},
-			B08QW9L18V: {href: "https://amzn.to/38psuQG",nameProduct: `Shark IZ482H Vertex Cordless Stick Vacuum`,image: '',summary: ``,slug: ""}
+			B08SJTW9LK: {href: "https://amzn.to/3sb2lME",nameProduct: `ASUS ROG Strix G15 Gaming Laptop`,image: '',summary: ``,slug: ""},
+			B08QW9L18V: {href: "https://amzn.to/38psuQG",nameProduct: `Shark IZ482H Vertex Cordless Stick Vacuum`,image: '',summary: ``,slug: ""},
+			B07D75MVX9: {href: "https://amzn.to/3vNnf6M",nameProduct: `RoboVac 30C Robot Vacuum Cleaner`,image: '',summary: ``,slug: ""},
+			B09127DDVT: {href: "https://amzn.to/3LGGLHr",nameProduct: `MSI Pulse GL66 Gaming Laptop`,image: '',summary: ``,slug: ""},
+			B08N5M9XBS: {href: "https://amzn.to/3vMTPFQ",nameProduct: `Apple MacBook Air Laptop`,image: '',summary: ``,slug: ""},
+			B07VHZ41L8: {href: "https://amzn.to/3KG0h5C",nameProduct: `Echo Show 10 (3rd Gen) smart display`,image: '',summary: ``,slug: ""},
+			B09NQN4679: {href: "https://amzn.to/3KKEtG4",nameProduct: `Samsung Galaxy Tab S8+ Android Tablet`,image: '',summary: ``,slug: ""},
+			B098WT6DW2: {href: "https://amzn.to/3kO41aw",nameProduct: `XGIMI Elfin Mini Projector`,image: '',summary: ``,slug: ""},
+			B09NS5HDWY: {href: "https://amzn.to/3LPEXft",nameProduct: `HP Envy Inspire 7255e Printer`,image: '',summary: ``,slug: ""},
+			B095GV2WFZ: {href: "https://amzn.to/37lrkWj",nameProduct: `Logitech Mevo Start 3-Pack`,image: '',summary: ``,slug: ""},
+			B08J7FL57P: {href: "https://amzn.to/3kKclbl",nameProduct: `DJI Pocket 2 Handheld 3-Axis Gimbal Stabilizer`,image: '',summary: ``,slug: ""},
+			B08H2LYFHX: {href: "https://amzn.to/3kMVswU",nameProduct: `Pulsar Plus Level 2 Electric Vehicle Smart Charger`,image: '',summary: ``,slug: ""}
 		}
 	}
 	return dataAMZ;
