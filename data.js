@@ -11,7 +11,7 @@ class Review95{
 		var dataAMZ = {};
 		if(keysw == keyAPI){
 			dataAMZ = {
-				B07D9FB15R: {href: "https://amzn.to/3my7Gs3",nameProduct: `Garmin fenix 5 plus`,slug: "",summary: ``,image: + amazon (CA):},
+				B07D9FB15R: {href: "https://google.com",nameProduct: `Garmin fenix 5 plus`,slug: "",summary: ``,image: ''},
 				B07VVM1VM6: {href: "https://amzn.to/3mBCbNQ",nameProduct: `Garmin fenix 6`,slug: "",summary: ``,image: ''},
 				B07SDQ2NB7: {href: "https://amzn.to/35Q2nx9",nameProduct: `BLACK+DECKER LD120VA 20-Volt Max Lithium Drill`,slug: "",summary: ``,image: ''},
 				B00SOR41CO: {href: "https://amzn.to/3oFOlqK",nameProduct: `RIKON Professional Power Tools Benchtop X/Y Mortiser, 34-260`,slug: "",summary: ``,image: ''},
