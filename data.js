@@ -1053,7 +1053,23 @@ class Review95{
 				B08P3TSDNR: {href: "https://www.amazon.com/dp/B08P3TSDNR?tag=congnguyen-20",nameProduct: `Hurom H-200 Easy Clean Model `,slug: "",summary: ``,image: ''},
 				B00LIAGKSC: {href: "https://www.amazon.com/dp/B00LIAGKSC?tag=congnguyen-20",nameProduct: `Omega VSJ843QS Juicer`,slug: "",summary: ``,image: ''},
 				B09MW17JQY: {href: "https://www.amazon.com/dp/B09MW17JQY?tag=congnguyen-20",nameProduct: `SAMSUNG Galaxy S22 Ultra Smartphone`,slug: "",summary: ``,image: ''},
-				B08NWD7K8H: {href: "https://www.amazon.com/dp/B08NWD7K8H?tag=congnguyen-20",nameProduct: `Motorola One 5G Ace`,slug: "",summary: ``,image: ''}
+				B08NWD7K8H: {href: "https://www.amazon.com/dp/B08NWD7K8H?tag=congnguyen-20",nameProduct: `Motorola One 5G Ace`,slug: "",summary: ``,image: ''},
+				B09JZH7RZT: {href: "https://www.amazon.com/dp/B09JZH7RZT?tag=congnguyen-20",nameProduct: `Power Station 500W Portable Generator`,slug: "",summary: ``,image: ''},
+				B01IN2RWQ6: {href: "https://www.amazon.com/dp/B01IN2RWQ6?tag=congnguyen-20",nameProduct: `Kuvings Whole Slow Juicer Elite C7000S`,slug: "",summary: ``,image: ''},
+				B01HRIGZBA: {href: "https://www.amazon.com/dp/B01HRIGZBA?tag=congnguyen-20",nameProduct: `JURA Satin Silver Z6 Espresso Machine`,slug: "",summary: ``,image: ''},
+				B07RNMXG7G: {href: "https://www.amazon.com/dp/B07RNMXG7G?tag=congnguyen-20",nameProduct: `De'Longhi Dinamica Automatic Espresso Machine`,slug: "",summary: ``,image: ''},
+				B06XG7WKKL: {href: "https://www.amazon.com/dp/B06XG7WKKL?tag=congnguyen-20",nameProduct: `Dyson V8 Animal Vacuum Cleaner`,slug: "",summary: ``,image: ''},
+				B08JNR77QY: {href: "https://www.amazon.com/dp/B08JNR77QY?tag=congnguyen-20",nameProduct: `Ring Video Doorbell 4 `,slug: "",summary: ``,image: ''},
+				B07CP71BXQ: {href: "https://www.amazon.com/dp/B07CP71BXQ?tag=congnguyen-20",nameProduct: `Canon EOS 5D Mark IV Full Frame Digital SLR Camera`,slug: "",summary: ``,image: ''},
+				B07VPHR6GD: {href: "https://www.amazon.com/dp/B07VPHR6GD?tag=congnguyen-20",nameProduct: `XP-PEN Artist13.3 Pro Drawing Monitor Pen Display`,slug: "",summary: ``,image: ''},
+				B08FBPRY3N: {href: "https://www.amazon.com/dp/B08FBPRY3N?tag=congnguyen-20",nameProduct: `SAMSUNG Galaxy Tab S7+ Plus`,slug: "",summary: ``,image: ''},
+				B094DJ9FSB: {href: "https://www.amazon.com/dp/B094DJ9FSB?tag=congnguyen-20",nameProduct: `Acer Aspire 3 17.3" HD+ Laptop`,slug: "",summary: ``,image: ''},
+				B09TB4HKKK: {href: "https://www.amazon.com/dp/B09TB4HKKK?tag=congnguyen-20",nameProduct: `Trifo Robotic Vacuum Cleaner`,slug: "",summary: ``,image: ''},
+				B0931XDGH7: {href: "https://www.amazon.com/dp/B0931XDGH7?tag=congnguyen-20",nameProduct: `Apple 11-inch iPad Pro`,slug: "",summary: ``,image: ''},
+				B09322LR1R: {href: "https://www.amazon.com/dp/B09322LR1R?tag=congnguyen-20",nameProduct: `Apple Magic Keyboard`,slug: "",summary: ``,image: ''},
+				B014W1C2VM: {href: "https://www.amazon.com/dp/B014W1C2VM?tag=congnguyen-20",nameProduct: `Cuisinart SS-10P1 Premium Coffeemaker`,slug: "",summary: ``,image: ''},
+				B0924WSBXH: {href: "https://www.amazon.com/dp/B0924WSBXH?tag=congnguyen-20",nameProduct: `Toshiba 43-inch Smart Fire TV`,slug: "",summary: ``,image: ''},
+				B07Y94GZSW: {href: "https://www.amazon.com/dp/B07Y94GZSW?tag=congnguyen-20",nameProduct: `Blendtec Classic 575 Blender`,slug: "",summary: ``,image: ''}
 			}
 		}
 		return dataAMZ;
