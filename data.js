@@ -1069,7 +1069,22 @@ class Review95{
 				B09322LR1R: {href: "https://www.amazon.com/dp/B09322LR1R?tag=congnguyen-20",nameProduct: `Apple Magic Keyboard`,slug: "",summary: ``,image: ''},
 				B014W1C2VM: {href: "https://www.amazon.com/dp/B014W1C2VM?tag=congnguyen-20",nameProduct: `Cuisinart SS-10P1 Premium Coffeemaker`,slug: "",summary: ``,image: ''},
 				B0924WSBXH: {href: "https://www.amazon.com/dp/B0924WSBXH?tag=congnguyen-20",nameProduct: `Toshiba 43-inch Smart Fire TV`,slug: "",summary: ``,image: ''},
-				B07Y94GZSW: {href: "https://www.amazon.com/dp/B07Y94GZSW?tag=congnguyen-20",nameProduct: `Blendtec Classic 575 Blender`,slug: "",summary: ``,image: ''}
+				B07Y94GZSW: {href: "https://www.amazon.com/dp/B07Y94GZSW?tag=congnguyen-20",nameProduct: `Blendtec Classic 575 Blender`,slug: "",summary: ``,image: ''},
+				B086N23QBD: {href: "https://www.amazon.com/dp/B086N23QBD?tag=congnguyen-20",nameProduct: `Hiboy S2 Pro Electric Scooter`,slug: "",summary: ``,image: ''},
+				B08G52JFFQ: {href: "https://www.amazon.com/dp/B08G52JFFQ?tag=congnguyen-20",nameProduct: `Marshall Emberton Portable Speaker`,slug: "",summary: ``,image: ''},
+				B07H7BMTLV: {href: "https://www.amazon.com/dp/B07H7BMTLV?tag=congnguyen-20",nameProduct: `Marshall Woburn II Bluetooth Speaker`,slug: "",summary: ``,image: ''},
+				B00LADQ83O: {href: "https://www.amazon.com/dp/B00LADQ83O?tag=congnguyen-20",nameProduct: `Blendtec Professional 800 Blender`,slug: "",summary: ``,image: ''},
+				B09KMYQNGJ: {href: "https://www.amazon.com/dp/B09KMYQNGJ?tag=congnguyen-20",nameProduct: `CREALITY Ender 3 S1 3D Printer`,slug: "",summary: ``,image: ''},
+				B07CVRZ1YJ: {href: "https://www.amazon.com/dp/B07CVRZ1YJ?tag=congnguyen-20",nameProduct: `Vitamix E310 Explorian Blender`,slug: "",summary: ``,image: ''},
+				B07Q12WDP2: {href: "https://www.amazon.com/dp/B07Q12WDP2?tag=congnguyen-20",nameProduct: `Marshall Stockwell II Bluetooth Speaker`,slug: "",summary: ``,image: ''},
+				B09FXFDGN3: {href: "https://www.amazon.com/dp/B09FXFDGN3?tag=congnguyen-20",nameProduct: `HP 15-inch Laptop`,slug: "",summary: ``,image: ''},
+				B08TKPKCWD: {href: "https://www.amazon.com/dp/B08TKPKCWD?tag=congnguyen-20",nameProduct: `ViewSonic M2e Portable Projector`,slug: "",summary: ``,image: ''},
+				B09GFFTN2W: {href: "https://www.amazon.com/dp/B09GFFTN2W?tag=congnguyen-20",nameProduct: `Tkisko Native 1080P HD Projector`,slug: "",summary: ``,image: ''},
+				B001TS6WWC: {href: "https://www.amazon.com/dp/B001TS6WWC?tag=congnguyen-20",nameProduct: `Coleman WeatherMaster 6-Person Tent `,slug: "",summary: ``,image: ''},
+				B08FRFK66Q: {href: "https://www.amazon.com/dp/B08FRFK66Q?tag=congnguyen-20",nameProduct: `beyerdynamic T1 High-end Tesla Headphones`,slug: "",summary: ``,image: ''},
+				B09649DDTN: {href: "https://www.amazon.com/dp/B09649DDTN?tag=congnguyen-20",nameProduct: `GE Opal Countertop Ice Maker`,slug: "",summary: ``,image: ''},
+				B09CHJDZYL: {href: "https://www.amazon.com/dp/B09CHJDZYL?tag=congnguyen-20",nameProduct: `Marshall Minor III Wireless Headphones`,slug: "",summary: ``,image: ''},
+				B09CQ29P63: {href: "https://www.amazon.com/dp/B09CQ29P63?tag=congnguyen-20",nameProduct: `LOOKSMART Ferrari SF1000 1/18 Model Car`,slug: "",summary: ``,image: ''}
 			}
 		}
 		return dataAMZ;
