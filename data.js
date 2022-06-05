@@ -1084,7 +1084,22 @@ class Review95{
 				B08FRFK66Q: {href: "https://www.amazon.com/dp/B08FRFK66Q?tag=congnguyen-20",nameProduct: `beyerdynamic T1 High-end Tesla Headphones`,slug: "",summary: ``,image: ''},
 				B09649DDTN: {href: "https://www.amazon.com/dp/B09649DDTN?tag=congnguyen-20",nameProduct: `GE Opal Countertop Ice Maker`,slug: "",summary: ``,image: ''},
 				B09CHJDZYL: {href: "https://www.amazon.com/dp/B09CHJDZYL?tag=congnguyen-20",nameProduct: `Marshall Minor III Wireless Headphones`,slug: "",summary: ``,image: ''},
-				B09CQ29P63: {href: "https://www.amazon.com/dp/B09CQ29P63?tag=congnguyen-20",nameProduct: `LOOKSMART Ferrari SF1000 1/18 Model Car`,slug: "",summary: ``,image: ''}
+				B09CQ29P63: {href: "https://www.amazon.com/dp/B09CQ29P63?tag=congnguyen-20",nameProduct: `LOOKSMART Ferrari SF1000 1/18 Model Car`,slug: "",summary: ``,image: ''},
+				B08N6YD1WW: {href: "https://www.amazon.com/dp/B08N6YD1WW?tag=congnguyen-20",nameProduct: `Haier Electronic Window Air Conditioner`,slug: "",summary: ``,image: ''},
+				B00LADQ83O: {href: "https://amzn.to/3xkdIVt",nameProduct: `Blendtec Professional 800 Blender`,slug: "",summary: ``,image: ''},
+				B0028AYQDC: {href: "https://www.amazon.com/dp/B0028AYQDC?tag=congnguyen-20",nameProduct: `Whynter ARC-14S Portable Air Conditioner`,slug: "",summary: ``,image: ''},
+				B08N6ZKDCY: {href: "https://www.amazon.com/dp/B08N6ZKDCY?tag=congnguyen-20",nameProduct: `GE Window Air Conditioner 5000 BTU`,slug: "",summary: ``,image: ''},
+				B08CKQYNX7: {href: "https://www.amazon.com/dp/B08CKQYNX7?tag=congnguyen-20",nameProduct: `TOBBI 12v Battery-Powered Toy Tractor`,slug: "",summary: ``,image: ''},
+				B07JGW9BQJ: {href: "https://www.amazon.com/dp/B07JGW9BQJ?tag=congnguyen-20",nameProduct: `Marshall Acton II Bluetoth Speaker`,slug: "",summary: ``,image: ''},
+				B07G9Y3ZMC: {href: "https://www.amazon.com/dp/B07G9Y3ZMC?tag=congnguyen-20",nameProduct: `Echo Studio High fidelity smart speaker`,slug: "",summary: ``,image: ''},
+				B09G9GM84W: {href: "https://www.amazon.com/dp/B09G9GM84W?tag=congnguyen-20",nameProduct: `iPhone 13 Pro Max`,slug: "",summary: ``,image: ''},
+				B07Q9MJKBV: {href: "https://www.amazon.com/dp/B07Q9MJKBV?tag=congnguyen-20",nameProduct: `Bose Noise Cancelling Headphones 700`,slug: "",summary: ``,image: ''},
+				B08NCS74VW: {href: "https://www.amazon.com/dp/B08NCS74VW?tag=congnguyen-20",nameProduct: `Carro Indoor/Outdoor Smart ceiling fan`,slug: "",summary: ``,image: ''},
+				B07Y94GZSW: {href: "https://www.amazon.com/dp/B07Y94GZSW?tag=congnguyen-20",nameProduct: `Blendtec Classic 575 Blender`,slug: "",summary: ``,image: ''},
+				B09YRMRGKV: {href: "https://www.amazon.com/dp/B09YRMRGKV?tag=congnguyen-20",nameProduct: `SOUNDBOKS Go - Portable Bluetooth Speaker`,slug: "",summary: ``,image: ''},
+				B08234JSSK: {href: "https://www.amazon.com/dp/B08234JSSK?tag=congnguyen-20",nameProduct: `Wavestorm 8ft Surfboard`,slug: "",summary: ``,image: ''},
+				B003R3JFJO: {href: "https://www.amazon.com/dp/B003R3JFJO?tag=congnguyen-20",nameProduct: `BISSELL Garage Pro Wet/Dry Car Vacuum`,slug: "",summary: ``,image: ''},
+				B019VXKUDI: {href: "https://www.amazon.com/dp/B019VXKUDI?tag=congnguyen-20",nameProduct: `Greenworks Pro 80V 21" Lawn Mower`,slug: "",summary: ``,image: ''}
 			}
 		}
 		return dataAMZ;
