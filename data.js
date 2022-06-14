@@ -1099,7 +1099,22 @@ class Review95{
 				B09YRMRGKV: {href: "https://www.amazon.com/dp/B09YRMRGKV?tag=congnguyen-20",nameProduct: `SOUNDBOKS Go - Portable Bluetooth Speaker`,slug: "",summary: ``,image: ''},
 				B08234JSSK: {href: "https://www.amazon.com/dp/B08234JSSK?tag=congnguyen-20",nameProduct: `Wavestorm 8ft Surfboard`,slug: "",summary: ``,image: ''},
 				B003R3JFJO: {href: "https://www.amazon.com/dp/B003R3JFJO?tag=congnguyen-20",nameProduct: `BISSELL Garage Pro Wet/Dry Car Vacuum`,slug: "",summary: ``,image: ''},
-				B019VXKUDI: {href: "https://www.amazon.com/dp/B019VXKUDI?tag=congnguyen-20",nameProduct: `Greenworks Pro 80V 21" Lawn Mower`,slug: "",summary: ``,image: ''}
+				B019VXKUDI: {href: "https://www.amazon.com/dp/B019VXKUDI?tag=congnguyen-20",nameProduct: `Greenworks Pro 80V 21" Lawn Mower`,slug: "",summary: ``,image: ''},
+				B088KRKFJ3: {href: "https://www.amazon.com/dp/B088KRKFJ3?tag=congnguyen-20",nameProduct: `Marshall Stockwell II Bluetooth Speaker`,slug: "",summary: ``,image: ''},
+				B086Q54K53: {href: "https://www.amazon.com/dp/B086Q54K53?tag=congnguyen-20",nameProduct: `Ring Video Doorbell Pro 2`,slug: "",summary: ``,image: ''},
+				B08W1ZNRSR: {href: "https://www.amazon.com/dp/B08W1ZNRSR?tag=congnguyen-20",nameProduct: `SideTrak Swivel 14” Portable Monitor`,slug: "",summary: ``,image: ''},
+				B09KTXJR13: {href: "https://www.amazon.com/dp/B09KTXJR13?tag=congnguyen-20",nameProduct: `JOYOUNG Blender Fully Automatic`,slug: "",summary: ``,image: ''},
+				B08QXB9BH5: {href: "https://www.amazon.com/dp/B08QXB9BH5?tag=congnguyen-20",nameProduct: `Ninja NC301 CREAMi Ice Cream Maker`,slug: "",summary: ``,image: ''},
+				B09XXS48P8: {href: "https://www.amazon.com/dp/B09XXS48P8?tag=congnguyen-20",nameProduct: `ecobee Smart Thermostat Premium`,slug: "",summary: ``,image: ''},
+				B09V3HN1KC: {href: "https://www.amazon.com/dp/B09V3HN1KC?tag=congnguyen-20",nameProduct: `Apple iPad Air 5`,slug: "",summary: ``,image: ''},
+				B07RDM6P1S: {href: "https://www.amazon.com/dp/B07RDM6P1S?tag=congnguyen-20",nameProduct: `Frigidaire Window Air Conditioner`,slug: "",summary: ``,image: ''},
+				B07W42DSG8: {href: "https://www.amazon.com/dp/B07W42DSG8?tag=congnguyen-20",nameProduct: `FLEXISPOT EC1 Standing Desk`,slug: "",summary: ``,image: ''},
+				B00FMUYU6I: {href: "https://www.amazon.com/dp/B00FMUYU6I?tag=congnguyen-20",nameProduct: `Travel Berkey Gravity-Fed Water Filter`,slug: "",summary: ``,image: ''},
+				B08746M1NX: {href: "https://www.amazon.com/dp/B08746M1NX?tag=congnguyen-20",nameProduct: `Waterdrop Reverse Osmosis System`,slug: "",summary: ``,image: ''},
+				B07CKJQYDW: {href: "https://www.amazon.com/dp/B07CKJQYDW?tag=congnguyen-20",nameProduct: `Sensi Touch Wi-Fi Smart Thermostat`,slug: "",summary: ``,image: ''},
+				B006UKLUFS: {href: "https://www.amazon.com/dp/B006UKLUFS?tag=congnguyen-20",nameProduct: `Cuisinart ICE-100 1.5-Quart Compressor Ice Cream`,slug: "",summary: ``,image: ''},
+				B07DQSNMWX: {href: "https://www.amazon.com/dp/B07DQSNMWX?tag=congnguyen-20",nameProduct: `SereneLife SLPAC10 Portable Air Conditioner`,slug: "",summary: ``,image: ''},
+				B091G1TJ32: {href: "https://www.amazon.com/dp/B091G1TJ32?tag=congnguyen-20",nameProduct: `GoPro HERO8 Black E-Commerce Packaging`,slug: "",summary: ``,image: ''}
 			}
 		}
 		return dataAMZ;
