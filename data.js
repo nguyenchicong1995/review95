@@ -1114,7 +1114,22 @@ class Review95{
 				B07CKJQYDW: {href: "https://www.amazon.com/dp/B07CKJQYDW?tag=congnguyen-20",nameProduct: `Sensi Touch Wi-Fi Smart Thermostat`,slug: "",summary: ``,image: ''},
 				B006UKLUFS: {href: "https://www.amazon.com/dp/B006UKLUFS?tag=congnguyen-20",nameProduct: `Cuisinart ICE-100 1.5-Quart Compressor Ice Cream`,slug: "",summary: ``,image: ''},
 				B07DQSNMWX: {href: "https://www.amazon.com/dp/B07DQSNMWX?tag=congnguyen-20",nameProduct: `SereneLife SLPAC10 Portable Air Conditioner`,slug: "",summary: ``,image: ''},
-				B091G1TJ32: {href: "https://www.amazon.com/dp/B091G1TJ32?tag=congnguyen-20",nameProduct: `GoPro HERO8 Black E-Commerce Packaging`,slug: "",summary: ``,image: ''}
+				B091G1TJ32: {href: "https://www.amazon.com/dp/B091G1TJ32?tag=congnguyen-20",nameProduct: `GoPro HERO8 Black E-Commerce Packaging`,slug: "",summary: ``,image: ''},
+				B088GS59TX: {href: "https://www.amazon.com/dp/B088GS59TX?tag=congnguyen-20",nameProduct: `Lenovo Thinkpad E15 Gen 2 Business Laptop`,slug: "",summary: ``,image: ''},
+				B08X1DFF77: {href: "https://www.amazon.com/dp/B08X1DFF77?tag=congnguyen-20",nameProduct: `CRANDDI Quiet Commercial Blender`,slug: "",summary: ``,image: ''},
+				B088G26FRM: {href: "https://www.amazon.com/dp/B088G26FRM?tag=congnguyen-20",nameProduct: `Frigidaire 2 Door Apartment Refrigerator`,slug: "",summary: ``,image: ''},
+				B00XQEM2E4: {href: "https://www.amazon.com/dp/B00XQEM2E4?tag=congnguyen-20",nameProduct: `CUCKOO CRP-P1009SB Rice Cooker`,slug: "",summary: ``,image: ''},
+				B01669UNR8: {href: "https://www.amazon.com/dp/B01669UNR8?tag=congnguyen-20",nameProduct: `ESCORT MAX360 Laser Radar Detector`,slug: "",summary: ``,image: ''},
+				B09MVZSW5V: {href: "https://www.amazon.com/dp/B09MVZSW5V?tag=congnguyen-20",nameProduct: `SAMSUNG Galaxy S22 Ultra Smartphone`,slug: "",summary: ``,image: ''},
+				B07LC9886S: {href: "https://www.amazon.com/dp/B07LC9886S?tag=congnguyen-20",nameProduct: `Schwinn Network Adult Hybrid Bike`,slug: "",summary: ``,image: ''},
+				B07K9MB6X1: {href: "https://www.amazon.com/dp/B07K9MB6X1?tag=congnguyen-20",nameProduct: `Gotrax GXL V2 Commuting Electric Scooter`,slug: "",summary: ``,image: ''},
+				B083FR3762: {href: "https://www.amazon.com/dp/B083FR3762?tag=congnguyen-20",nameProduct: `EF ECOFLOW Portable Power Station`,slug: "",summary: ``,image: ''},
+				B09FXRR32P: {href: "https://www.amazon.com/dp/B09FXRR32P?tag=congnguyen-20",nameProduct: `TicWatch Pro 3 Ultra GPS Smartwatch`,slug: "",summary: ``,image: ''},
+				B09XVDX497: {href: "https://www.amazon.com/dp/B09XVDX497?tag=congnguyen-20",nameProduct: `Amazfit T-Rex 2 Smart Watch`,slug: "",summary: ``,image: ''},
+				B082VXRND2: {href: "https://www.amazon.com/dp/B082VXRND2?tag=congnguyen-20",nameProduct: `August Wi-Fi, (4th Generation) Smart Lock`,slug: "",summary: ``,image: ''},
+				B06W56TBLN: {href: "https://www.amazon.com/dp/B06W56TBLN?tag=congnguyen-20",nameProduct: `Ecobee3 Lite SmartThermostat`,slug: "",summary: ``,image: ''},
+				B07FBS36W2: {href: "https://www.amazon.com/dp/B07FBS36W2?tag=congnguyen-20",nameProduct: `SAMSUNG SJ55W Ultrawide Gaming Monitor`,slug: "",summary: ``,image: ''},
+				B09SKRDV34: {href: "https://www.amazon.com/dp/B09SKRDV34?tag=congnguyen-20",nameProduct: `DMASUN Exercise Bike Indoor Cycling Bike`,slug: "",summary: ``,image: ''}
 			}
 		}
 		return dataAMZ;
