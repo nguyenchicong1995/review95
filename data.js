@@ -1144,7 +1144,22 @@ class Review95{
 				B08PP8N6QD: {href: "https://www.amazon.com/dp/B08PP8N6QD?tag=congnguyen-20",nameProduct: `ChefWave Milkmade Vegetarian Milk Maker`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B08PP8N6QD'},
 				B09BTKN7ZV: {href: "https://www.amazon.com/dp/B09BTKN7ZV?tag=congnguyen-20",nameProduct: `Philips Fidelio L3 Wireless Headphones`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09BTKN7ZV'},
 				B091G64GVK: {href: "https://www.amazon.com/dp/B091G64GVK?tag=congnguyen-20",nameProduct: `eero Pro 6E tri-band mesh Wi-Fi 6E system`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B091G64GVK'},
-				B09XXS48P8: {href: "https://www.amazon.com/dp/B09XXS48P8?tag=congnguyen-20",nameProduct: `ecobee Smart Thermostat Premium`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09XXS48P8'}
+				B09XXS48P8: {href: "https://www.amazon.com/dp/B09XXS48P8?tag=congnguyen-20",nameProduct: `ecobee Smart Thermostat Premium`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09XXS48P8'},
+				B07MHPXKMN: {href: "https://www.amazon.com/dp/B07MHPXKMN?tag=congnguyen-20",nameProduct: `Espressione 8212S Espresso Machine`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07MHPXKMN'},
+				B09FXRR32P: {href: "https://www.amazon.com/dp/B09FXRR32P?tag=congnguyen-20",nameProduct: `TicWatch Pro 3 Ultra GPS Smartwatch`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09FXRR32P'},
+				B01MU08Z9C: {href: "https://www.amazon.com/dp/B01MU08Z9C?tag=congnguyen-20",nameProduct: `Little Snowie Max Snow Cone Machine`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B01MU08Z9C'},
+				B09YRMRGKV: {href: "https://www.amazon.com/dp/B09YRMRGKV?tag=congnguyen-20",nameProduct: `SOUNDBOKS Go Portable Bluetooth Speaker`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09YRMRGKV'},
+				B07NQT85FC: {href: "https://www.amazon.com/dp/B07NQT85FC?tag=congnguyen-20",nameProduct: `ecobee SmartThermostat`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07NQT85FC'},
+				B075ZLZHYG: {href: "https://www.amazon.com/dp/B075ZLZHYG?tag=congnguyen-20",nameProduct: `COSTWAY Portable Air Conditioners`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B075ZLZHYG'},
+				B00VFH1RQS: {href: "https://www.amazon.com/dp/B00VFH1RQS?tag=congnguyen-20",nameProduct: `Core 9 Person Instant Cabin Tent`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B00VFH1RQS'},
+				B00CMBTCHW: {href: "https://www.amazon.com/dp/B00CMBTCHW?tag=congnguyen-20",nameProduct: `Intex Mariner Inflatable Boat`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B00CMBTCHW'},
+				B00G3IM2QI: {href: "https://www.amazon.com/dp/B00G3IM2QI?tag=congnguyen-20",nameProduct: `Saturn 13 ft Kaboat SK385Xl Inflatable Boat `,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B00G3IM2QI'},
+				B08MZJW9Y5: {href: "https://www.amazon.com/dp/B08MZJW9Y5?tag=congnguyen-20",nameProduct: `BLUETTI Portable Power Station AC200P`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B08MZJW9Y5'},
+				B01MTF1CWR: {href: "https://www.amazon.com/dp/B01MTF1CWR?tag=congnguyen-20",nameProduct: `Vornado VFAN Sr. Air Circulator Fan`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B01MTF1CWR'},
+				B07L6Q2GSW: {href: "https://www.amazon.com/dp/B07L6Q2GSW?tag=congnguyen-20",nameProduct: `Hunter Fan Company 44" Indoor Ceiling Fan`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07L6Q2GSW'},
+				B082VXK9CK: {href: "https://www.amazon.com/dp/B082VXK9CK?tag=congnguyen-20",nameProduct: `August Wi-Fi, (4th Generation) Smart Lock`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B082VXK9CK'},
+				B081FZV45H: {href: "https://www.amazon.com/dp/B081FZV45H?tag=congnguyen-20",nameProduct: ` Apple MacBook Pro`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B081FZV45H'},
+				B00HRT863U: {href: "https://www.amazon.com/dp/B00HRT863U?tag=congnguyen-20",nameProduct: `Bestway SaluSpa Miami Inflatable Hot Tub`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B00HRT863U'}
 			}
 		}
 		return dataAMZ;
