@@ -1159,7 +1159,22 @@ class Review95{
 				B07L6Q2GSW: {href: "https://www.amazon.com/dp/B07L6Q2GSW?tag=congnguyen-20",nameProduct: `Hunter Fan Company 44" Indoor Ceiling Fan`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07L6Q2GSW'},
 				B082VXK9CK: {href: "https://www.amazon.com/dp/B082VXK9CK?tag=congnguyen-20",nameProduct: `August Wi-Fi, (4th Generation) Smart Lock`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B082VXK9CK'},
 				B081FZV45H: {href: "https://www.amazon.com/dp/B081FZV45H?tag=congnguyen-20",nameProduct: ` Apple MacBook Pro`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B081FZV45H'},
-				B00HRT863U: {href: "https://www.amazon.com/dp/B00HRT863U?tag=congnguyen-20",nameProduct: `Bestway SaluSpa Miami Inflatable Hot Tub`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B00HRT863U'}
+				B00HRT863U: {href: "https://www.amazon.com/dp/B00HRT863U?tag=congnguyen-20",nameProduct: `Bestway SaluSpa Miami Inflatable Hot Tub`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B00HRT863U'},
+				B00HRT863U: {href: "https://www.amazon.com/dp/B00HRT863U?tag=congnguyen-20",nameProduct: `SaluSpa Miami Inflatable Hot Tub`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B00HRT863U'},
+				B07G2NRR2V: {href: "https://www.amazon.com/dp/B07G2NRR2V?tag=congnguyen-20",nameProduct: `SaluSpa Helsinki AirJet Inflatable Hot Tub`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07G2NRR2V'},
+				B09G9DQDDQ: {href: "https://www.amazon.com/dp/B09G9DQDDQ?tag=congnguyen-20",nameProduct: `Apple iPad Mini`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09G9DQDDQ'},
+				B09V3L141V: {href: "https://www.amazon.com/dp/B09V3L141V?tag=congnguyen-20",nameProduct: `Apple iPad Air`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09V3L141V'},
+				B01FIG1JIM: {href: "https://www.amazon.com/dp/B01FIG1JIM?tag=congnguyen-20",nameProduct: `Dyson Supersonic Hair Dryer`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B01FIG1JIM'},
+				B01MUP6L1U: {href: "https://www.amazon.com/dp/B01MUP6L1U?tag=congnguyen-20",nameProduct: `Westinghouse iGen2200 Portable Generator`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B01MUP6L1U'},
+				B01FFRQYPW: {href: "https://www.amazon.com/dp/B01FFRQYPW?tag=congnguyen-20",nameProduct: `Blendtec Classic 575 Blender`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B01FFRQYPW'},
+				B08PP8N6QD: {href: "https://www.amazon.com/dp/B08PP8N6QD?tag=congnguyen-20",nameProduct: `ChefWave Milkmade Dairy Milk Maker`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B08PP8N6QD'},
+				B00CMBJ1VE: {href: "https://www.amazon.com/dp/B00CMBJ1VE?tag=congnguyen-20",nameProduct: `Intex Excursion Inflatable Boat`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B00CMBJ1VE'},
+				B07WFQZ6FL: {href: "https://www.amazon.com/dp/B07WFQZ6FL?tag=congnguyen-20",nameProduct: `Canon EOS M6 Mark II Mirrorless Camera`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07WFQZ6FL'},
+				B07HDSMPDZ: {href: "https://www.amazon.com/dp/B07HDSMPDZ?tag=congnguyen-20",nameProduct: `WOODBRIDGE 59" Acrylic Freestanding Bathtub`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07HDSMPDZ'},
+				B09NQM7XHC: {href: "https://www.amazon.com/dp/B09NQM7XHC?tag=congnguyen-20",nameProduct: `Samsung Galaxy Tab S8 Android Tablet`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09NQM7XHC'},
+				B09F3PSHSN: {href: "https://www.amazon.com/dp/B09F3PSHSN?tag=congnguyen-20",nameProduct: `TotGuard 27.5" Electric Bike`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09F3PSHSN'},
+				B0B4SY27XZ: {href: "https://www.amazon.com/dp/B0B4SY27XZ?tag=congnguyen-20",nameProduct: `Sailnovo 14'' Electric Bike`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B0B4SY27XZ'},
+				B07Q9MJKBV: {href: "https://www.amazon.com/dp/B07Q9MJKBV?tag=congnguyen-20",nameProduct: `Bose Noise Cancelling Headphones 700`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07Q9MJKBV'}
 			}
 		}
 		return dataAMZ;
