@@ -1174,7 +1174,27 @@ class Review95{
 				B09NQM7XHC: {href: "https://www.amazon.com/dp/B09NQM7XHC?tag=congnguyen-20",nameProduct: `Samsung Galaxy Tab S8 Android Tablet`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09NQM7XHC'},
 				B09F3PSHSN: {href: "https://www.amazon.com/dp/B09F3PSHSN?tag=congnguyen-20",nameProduct: `TotGuard 27.5" Electric Bike`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09F3PSHSN'},
 				B0B4SY27XZ: {href: "https://www.amazon.com/dp/B0B4SY27XZ?tag=congnguyen-20",nameProduct: `Sailnovo 14'' Electric Bike`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B0B4SY27XZ'},
-				B07Q9MJKBV: {href: "https://www.amazon.com/dp/B07Q9MJKBV?tag=congnguyen-20",nameProduct: `Bose Noise Cancelling Headphones 700`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07Q9MJKBV'}
+				B07Q9MJKBV: {href: "https://www.amazon.com/dp/B07Q9MJKBV?tag=congnguyen-20",nameProduct: `Bose Noise Cancelling Headphones 700`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07Q9MJKBV'},
+				B07G7GGFV6: {href: "https://www.amazon.com/dp/B07G7GGFV6?tag=congnguyen-20",nameProduct: `DuroMax XP13000EH Portable Generator`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07G7GGFV6'},
+				B00NB3P98G: {href: "https://www.amazon.com/dp/B00NB3P98G?tag=congnguyen-20",nameProduct: `Coleman SaluSpa Inflatable Hot Tub`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B00NB3P98G'},
+				B082LXF4VK: {href: "https://www.amazon.com/dp/B082LXF4VK?tag=congnguyen-20",nameProduct: `Intex PureSpa Greywood Deluxe 6 Person Hot Tub`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B082LXF4VK'},
+				B01D3FOD0Q: {href: "https://www.amazon.com/dp/B01D3FOD0Q?tag=congnguyen-20",nameProduct: `LG 8,000 BTU Window Air Conditioner`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B01D3FOD0Q'},
+				B08BHP55VM: {href: "https://www.amazon.com/dp/B08BHP55VM?tag=congnguyen-20",nameProduct: `Acer Aspire 3 15.6" Laptop Computer`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B08BHP55VM'},
+				B07M8P1RFW: {href: "https://www.amazon.com/dp/B07M8P1RFW?tag=congnguyen-20",nameProduct: `A-iPower SUA2000iV Inverter Generator`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07M8P1RFW'},
+				B08L41KGBH: {href: "https://www.amazon.com/dp/B08L41KGBH?tag=congnguyen-20",nameProduct: `Apple Watch Series 6`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B08L41KGBH'},
+				B08YKG5K7F: {href: "https://www.amazon.com/dp/B08YKG5K7F?tag=congnguyen-20",nameProduct: `Lenovo Legion 5 Gaming Laptop`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B08YKG5K7F'},
+				B095JR2FTV: {href: "https://www.amazon.com/dp/B095JR2FTV?tag=congnguyen-20",nameProduct: `YOSUDA Magnetic Rowing Machine `,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B095JR2FTV'},
+				B08MF8N8SD: {href: "https://www.amazon.com/dp/B08MF8N8SD?tag=congnguyen-20",nameProduct: `RoboVac G30 Hybrid Robot Vacuum`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B08MF8N8SD'},
+				B01F4WT8XS: {href: "https://www.amazon.com/dp/B01F4WT8XS?tag=congnguyen-20",nameProduct: `De'Longhi Eletta Espresso Machine`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B01F4WT8XS'},
+				B08R9JSX5B: {href: "https://www.amazon.com/dp/B08R9JSX5B?tag=congnguyen-20",nameProduct: `AIPER Cordless Automatic Pool Cleaner`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B08R9JSX5B'},
+				B08BRFWGMC: {href: "https://www.amazon.com/dp/B08BRFWGMC?tag=congnguyen-20",nameProduct: `TicWatch Pro 3 GPS Smart Watch`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B08BRFWGMC'},
+				B00I8BICB2: {href: "https://www.amazon.com/dp/B00I8BICB2?tag=congnguyen-20",nameProduct: `Sony Alpha a6000 Mirrorless Digital Camera`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B00I8BICB2'},
+				B07GYQLBWZ: {href: "https://www.amazon.com/dp/B07GYQLBWZ?tag=congnguyen-20",nameProduct: `INTEX 20ft x 48in Ultra XTR Pool `,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07GYQLBWZ'},
+				B09MYFWNKQ: {href: "https://www.amazon.com/dp/B09MYFWNKQ?tag=congnguyen-20",nameProduct: `Essential Hot Tubs 28-Jet Edgewater `,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09MYFWNKQ'},
+				B09PHB6RPN: {href: "https://www.amazon.com/dp/B09PHB6RPN?tag=congnguyen-20",nameProduct: `Alienware m15 R7 AMD 15.6" Gaming Laptop`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09PHB6RPN'},
+				B09TB4HKKK: {href: "https://www.amazon.com/dp/B09TB4HKKK?tag=congnguyen-20",nameProduct: `Trifo Robotic Vacuum Cleaner`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09TB4HKKK'},
+				B09VKZPST7: {href: "https://www.amazon.com/dp/B09VKZPST7?tag=congnguyen-20",nameProduct: `Anker Soundcore Motion Boom Speaker`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09VKZPST7'},
+				B08B4M8Z68: {href: "https://www.amazon.com/dp/B08B4M8Z68?tag=congnguyen-20",nameProduct: `FEZIBO 55-Inch Motor Electric Standing Desk`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B08B4M8Z68'}
 			}
 		}
 		return dataAMZ;
