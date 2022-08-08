@@ -1194,7 +1194,27 @@ class Review95{
 				B09PHB6RPN: {href: "https://www.amazon.com/dp/B09PHB6RPN?tag=congnguyen-20",nameProduct: `Alienware m15 R7 AMD 15.6" Gaming Laptop`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09PHB6RPN'},
 				B09TB4HKKK: {href: "https://www.amazon.com/dp/B09TB4HKKK?tag=congnguyen-20",nameProduct: `Trifo Robotic Vacuum Cleaner`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09TB4HKKK'},
 				B09VKZPST7: {href: "https://www.amazon.com/dp/B09VKZPST7?tag=congnguyen-20",nameProduct: `Anker Soundcore Motion Boom Speaker`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09VKZPST7'},
-				B08B4M8Z68: {href: "https://www.amazon.com/dp/B08B4M8Z68?tag=congnguyen-20",nameProduct: `FEZIBO 55-Inch Motor Electric Standing Desk`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B08B4M8Z68'}
+				B08B4M8Z68: {href: "https://www.amazon.com/dp/B08B4M8Z68?tag=congnguyen-20",nameProduct: `FEZIBO 55-Inch Motor Electric Standing Desk`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B08B4M8Z68'},
+				B07NSSWPC5: {href: "https://www.amazon.com/dp/B07NSSWPC5?tag=congnguyen-20",nameProduct: `ASTRO Gaming A40 TR Wired Headset`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07NSSWPC5'},
+				B09BNJ3PCC: {href: "https://www.amazon.com/dp/B09BNJ3PCC?tag=congnguyen-20",nameProduct: `NIU Electric Scooter Adults`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09BNJ3PCC'},
+				B09G9CJM1Z: {href: "https://www.amazon.com/dp/B09G9CJM1Z?tag=congnguyen-20",nameProduct: `Apple 10.2-inch iPad`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09G9CJM1Z'},
+				B07ZDTXJ93: {href: "https://www.amazon.com/dp/B07ZDTXJ93?tag=congnguyen-20",nameProduct: `Ring Alarm 5-piece kit (2nd Gen)`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07ZDTXJ93'},
+				B01I3I9L8M: {href: "https://www.amazon.com/dp/B01I3I9L8M?tag=congnguyen-20",nameProduct: `Google Nest Cam Outdoor`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B01I3I9L8M'},
+				B096BK7W5M: {href: "https://www.amazon.com/dp/B096BK7W5M?tag=congnguyen-20",nameProduct: `SAMSUNG Galaxy Watch 4 40mm Smartwatch`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B096BK7W5M'},
+				B09TDKV65Z: {href: "https://www.amazon.com/dp/B09TDKV65Z?tag=congnguyen-20",nameProduct: `ASUS ZenBook Pro Duo 15 OLED Laptop`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09TDKV65Z'},
+				B085TDV9DW: {href: "https://www.amazon.com/dp/B085TDV9DW?tag=congnguyen-20",nameProduct: `HD1080P 5G WiFi Bluetooth Projector`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B085TDV9DW'},
+				B07XQSDK67: {href: "https://www.amazon.com/dp/B07XQSDK67?tag=congnguyen-20",nameProduct: `FLEXISPOT EN1 Electric Standing Desk`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07XQSDK67'},
+				B074F1S194: {href: "https://www.amazon.com/dp/B074F1S194?tag=congnguyen-20",nameProduct: `Cubii JR1 or JR2 Under Desk Elliptical`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B074F1S194'},
+				B002HRET6A: {href: "https://www.amazon.com/dp/B002HRET6A?tag=congnguyen-20",nameProduct: `Polaris Vac-Sweep 280 Pool Cleaner`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B002HRET6A'},
+				B0018C6BDE: {href: "https://www.amazon.com/dp/B0018C6BDE?tag=congnguyen-20",nameProduct: `DuroMax XP10000E Powered Portable Generator`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B0018C6BDE'},
+				B094NYHTMF: {href: "https://www.amazon.com/dp/B094NYHTMF?tag=congnguyen-20",nameProduct: `iRobot Roomba j7+ Self-Emptying Robot Vacuum`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B094NYHTMF'},
+				B09VKTXKRR: {href: "https://www.amazon.com/dp/B09VKTXKRR?tag=congnguyen-20",nameProduct: `Sailnovo Electric Bicycle`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09VKTXKRR'},
+				B09NMZ1P31: {href: "https://www.amazon.com/dp/B09NMZ1P31?tag=congnguyen-20",nameProduct: `Tineco Carpet Cleaner Machine`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09NMZ1P31'},
+				B082VG6N78: {href: "https://www.amazon.com/dp/B082VG6N78?tag=congnguyen-20",nameProduct: `Goal Zero Yeti 200X Portable Power Station`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B082VG6N78'},
+				B01HC4DHWY: {href: "https://www.amazon.com/dp/B01HC4DHWY?tag=congnguyen-20",nameProduct: `Hurom H-AA Slow Juicer`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B01HC4DHWY'},
+				B086Q54K53: {href: "https://www.amazon.com/dp/B086Q54K53?tag=congnguyen-20",nameProduct: `Ring Video Doorbell Pro 2`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B086Q54K53'},
+				B07RQN2FQL: {href: "https://www.amazon.com/dp/B07RQN2FQL?tag=congnguyen-20",nameProduct: `De’Longhi Dinamica Espresso Machine`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07RQN2FQL'},
+				B081NJ8ZMY: {href: "https://www.amazon.com/dp/B081NJ8ZMY?tag=congnguyen-20",nameProduct: `Joyoung DJ10U-K1 Soy milk Maker`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B081NJ8ZMY'}
 			}
 		}
 		return dataAMZ;
