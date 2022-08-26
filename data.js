@@ -1214,7 +1214,23 @@ class Review95{
 				B01HC4DHWY: {href: "https://www.amazon.com/dp/B01HC4DHWY?tag=congnguyen-20",nameProduct: `Hurom H-AA Slow Juicer`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B01HC4DHWY'},
 				B086Q54K53: {href: "https://www.amazon.com/dp/B086Q54K53?tag=congnguyen-20",nameProduct: `Ring Video Doorbell Pro 2`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B086Q54K53'},
 				B07RQN2FQL: {href: "https://www.amazon.com/dp/B07RQN2FQL?tag=congnguyen-20",nameProduct: `De’Longhi Dinamica Espresso Machine`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07RQN2FQL'},
-				B081NJ8ZMY: {href: "https://www.amazon.com/dp/B081NJ8ZMY?tag=congnguyen-20",nameProduct: `Joyoung DJ10U-K1 Soy milk Maker`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B081NJ8ZMY'}
+				B081NJ8ZMY: {href: "https://www.amazon.com/dp/B081NJ8ZMY?tag=congnguyen-20",nameProduct: `Joyoung DJ10U-K1 Soy milk Maker`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B081NJ8ZMY'},
+				B01M1A8SBZ: {href: "https://www.amazon.com/dp/B01M1A8SBZ?tag=congnguyen-20",nameProduct: `DuroMax Gas Powered Portable 12000 Watt`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B01M1A8SBZ'},
+				B005SE6QBU: {href: "https://www.amazon.com/dp/B005SE6QBU?tag=congnguyen-20",nameProduct: `Audioengine A5+ Plus Powered Speaker`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B005SE6QBU'},
+				B08JY8DG1G: {href: "https://www.amazon.com/dp/B08JY8DG1G?tag=congnguyen-20",nameProduct: `Gyroor C3 Folding Electric Bike`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B08JY8DG1G'},
+				B07VGRJDFY: {href: "https://www.amazon.com/dp/B07VGRJDFY?tag=congnguyen-20",nameProduct: `Nintendo Switch`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07VGRJDFY'},
+				B08THDN9TR: {href: "https://www.amazon.com/dp/B08THDN9TR?tag=congnguyen-20",nameProduct: `BLACK+DECKER Portable Air Conditioner`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B08THDN9TR'},
+				B006AXRR3Y: {href: "https://www.amazon.com/dp/B006AXRR3Y?tag=congnguyen-20",nameProduct: `Jawbone Big JAMBOX Bluetooth Speaker`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B006AXRR3Y'},
+				B096X9LGJ1: {href: "https://www.amazon.com/dp/B096X9LGJ1?tag=congnguyen-20",nameProduct: `Ninja DZ401 Foodi 10 Quart Air Fryer`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B096X9LGJ1'},
+				B07Z9ZLQ8R: {href: "https://www.amazon.com/dp/B07Z9ZLQ8R?tag=congnguyen-20",nameProduct: `Frigidaire Connected Window Air Conditioner`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07Z9ZLQ8R'},
+				B08SBL81LT: {href: "https://www.amazon.com/dp/B08SBL81LT?tag=congnguyen-20",nameProduct: `FLEXISPOT EW8 Comhar Electric Standing Desk`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B08SBL81LT'},
+				B08XPC3WFQ: {href: "https://www.amazon.com/dp/B08XPC3WFQ?tag=congnguyen-20",nameProduct: `ASUS TUF Dash 15 Ultra Slim Gaming Laptop`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B08XPC3WFQ'},
+				B00D5RVMAM: {href: "https://www.amazon.com/dp/B00D5RVMAM?tag=congnguyen-20",nameProduct: `Goal Zero Yeti 400 Portable Power Station`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B00D5RVMAM'},
+				B09HGYTDTZ: {href: "https://www.amazon.com/dp/B09HGYTDTZ?tag=congnguyen-20",nameProduct: `EF ECOFLOW River Portable Power Station`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09HGYTDTZ'},
+				B08528ZCNY: {href: "https://www.amazon.com/dp/B08528ZCNY?tag=congnguyen-20",nameProduct: `Beats Studio3 Headphones`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B08528ZCNY'},
+				B004ZLCO8G: {href: "https://www.amazon.com/dp/B004ZLCO8G?tag=congnguyen-20",nameProduct: `Kuvings NS-850 Juicer`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B004ZLCO8G'},
+				B004O74Z0G: {href: "https://www.amazon.com/dp/B004O74Z0G?tag=congnguyen-20",nameProduct: `Napier Outdoors Family Tents sportz`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B004O74Z0G'},
+				B097MZGZ2Y: {href: "https://www.amazon.com/dp/B097MZGZ2Y?tag=congnguyen-20",nameProduct: `Ultra Slim Portable Monitor for Laptop`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B097MZGZ2Y'}
 			}
 		}
 		return dataAMZ;
