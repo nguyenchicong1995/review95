@@ -1230,7 +1230,22 @@ class Review95{
 				B08528ZCNY: {href: "https://www.amazon.com/dp/B08528ZCNY?tag=congnguyen-20",nameProduct: `Beats Studio3 Headphones`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B08528ZCNY'},
 				B004ZLCO8G: {href: "https://www.amazon.com/dp/B004ZLCO8G?tag=congnguyen-20",nameProduct: `Kuvings NS-850 Juicer`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B004ZLCO8G'},
 				B004O74Z0G: {href: "https://www.amazon.com/dp/B004O74Z0G?tag=congnguyen-20",nameProduct: `Napier Outdoors Family Tents sportz`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B004O74Z0G'},
-				B097MZGZ2Y: {href: "https://www.amazon.com/dp/B097MZGZ2Y?tag=congnguyen-20",nameProduct: `Ultra Slim Portable Monitor for Laptop`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B097MZGZ2Y'}
+				B097MZGZ2Y: {href: "https://www.amazon.com/dp/B097MZGZ2Y?tag=congnguyen-20",nameProduct: `Ultra Slim Portable Monitor for Laptop`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B097MZGZ2Y'},
+				B093T2NSD4: {href: "https://www.amazon.com/dp/B093T2NSD4?tag=congnguyen-20",nameProduct: `Alienware Ultrawide Curved Gaming Monitor`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B093T2NSD4'},
+				B098XYR62P: {href: "https://www.amazon.com/dp/B098XYR62P?tag=congnguyen-20",nameProduct: `BISSELL air320 Max Smart Air Purifier`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B098XYR62P'},
+				B099VMT8VZ: {href: "https://www.amazon.com/dp/B099VMT8VZ?tag=congnguyen-20",nameProduct: `Meta Quest 2`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B099VMT8VZ'},
+				B09V3GMN65: {href: "https://www.amazon.com/dp/B09V3GMN65?tag=congnguyen-20",nameProduct: `iPad Air 5`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09V3GMN65'},
+				B07MFRJWY6: {href: "https://www.amazon.com/dp/B07MFRJWY6?tag=congnguyen-20",nameProduct: `Raven Pro Document Scanner`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07MFRJWY6'},
+				B07NRC42PJ: {href: "https://www.amazon.com/dp/B07NRC42PJ?tag=congnguyen-20",nameProduct: `Midea 3,000 Energy Star dehumidifier`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07NRC42PJ'},
+				B07H1B3PY9: {href: "https://www.amazon.com/dp/B07H1B3PY9?tag=congnguyen-20",nameProduct: `Polk Audio Signa S2 Ultra-Slim TV`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07H1B3PY9'},
+				B07SSVWD1X: {href: "https://www.amazon.com/dp/B07SSVWD1X?tag=congnguyen-20",nameProduct: `Fossil Gen 5 Smartwatch`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07SSVWD1X'},
+				B09H5VPVKS: {href: "https://www.amazon.com/dp/B09H5VPVKS?tag=congnguyen-20",nameProduct: `Amazfit GTR 3 Pro Smart Watch`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09H5VPVKS'},
+				B0773CS85H: {href: "https://www.amazon.com/dp/B0773CS85H?tag=congnguyen-20",nameProduct: `DEWALT 20V Max Cordless Drill`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B0773CS85H'},
+				B09HJZPFDD: {href: "https://www.amazon.com/dp/B09HJZPFDD?tag=congnguyen-20",nameProduct: `Google Pixel 6`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09HJZPFDD'},
+				B07C6PPCCH: {href: "https://www.amazon.com/dp/B07C6PPCCH?tag=congnguyen-20",nameProduct: `Brilliant Smart Home Control (3-Switch Panel)`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07C6PPCCH'},
+				B07SH33RFT: {href: "https://www.amazon.com/dp/B07SH33RFT?tag=congnguyen-20",nameProduct: `Lockly PGD728WVB Secure Pro Deadbolt`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07SH33RFT'},
+				B092227VYL: {href: "https://www.amazon.com/dp/B092227VYL?tag=congnguyen-20",nameProduct: `COMFEE' Countertop Dishwasher`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B092227VYL'},
+				B0131RG6VK: {href: "https://www.amazon.com/dp/B0131RG6VK?tag=congnguyen-20",nameProduct: `Google Nest Learning Thermostat`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B0131RG6VK'}
 			}
 		}
 		return dataAMZ;
