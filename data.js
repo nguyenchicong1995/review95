@@ -1245,7 +1245,11 @@ class Review95{
 				B07C6PPCCH: {href: "https://www.amazon.com/dp/B07C6PPCCH?tag=congnguyen-20",nameProduct: `Brilliant Smart Home Control (3-Switch Panel)`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07C6PPCCH'},
 				B07SH33RFT: {href: "https://www.amazon.com/dp/B07SH33RFT?tag=congnguyen-20",nameProduct: `Lockly PGD728WVB Secure Pro Deadbolt`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07SH33RFT'},
 				B092227VYL: {href: "https://www.amazon.com/dp/B092227VYL?tag=congnguyen-20",nameProduct: `COMFEE' Countertop Dishwasher`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B092227VYL'},
-				B0131RG6VK: {href: "https://www.amazon.com/dp/B0131RG6VK?tag=congnguyen-20",nameProduct: `Google Nest Learning Thermostat`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B0131RG6VK'}
+				B0131RG6VK: {href: "https://www.amazon.com/dp/B0131RG6VK?tag=congnguyen-20",nameProduct: `Google Nest Learning Thermostat`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B0131RG6VK'},
+				B07C846L9W: {href: "https://www.amazon.com/dp/B07C846L9W?tag=congnguyen-20",nameProduct: `HAUSCHEN HOME LED Lighted Bathroom Mirror`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07C846L9W'},
+				B07YNHLR4Y: {href: "https://www.amazon.com/dp/B07YNHLR4Y?tag=congnguyen-20",nameProduct: `Bass Raider 10E Angler Fishing Boat`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07YNHLR4Y'},
+				B0001AGYG8: {href: "https://www.amazon.com/dp/B0001AGYG8?tag=congnguyen-20",nameProduct: `Classic Accessories Colorado Pontoon Boat`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B0001AGYG8'},
+				B09FF46FQ9: {href: "https://www.amazon.com/dp/B09FF46FQ9?tag=congnguyen-20",nameProduct: `Anker 521 Portable Power Station`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B09FF46FQ9'}
 			}
 		}
 		return dataAMZ;
