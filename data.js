@@ -636,7 +636,7 @@ class Review95{
 				B087KQDM15: {href: "https://amzn.to/3py3RYE",nameProduct: `Lenovo Smart Tab M10 Plus`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B087KQDM15'},
 				B086DKSHQ4: {href: "https://amzn.to/3muqlbb",nameProduct: `Blink Outdoor - Wireless, HD Security Camera`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B086DKSHQ4'},
 				B095X7RV77: {href: "https://amzn.to/3bkAvEE",nameProduct: `Dell Curved Gaming Monitor`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B095X7RV77'},
-				B07Z9Z64PR: {href: "https://amzn.to/3Gw8EQ7",nameProduct: `BISSELL air320 Smart Air Purifier`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07Z9Z64PR'},
+				B07XTX5RJJ: {href: "https://www.amazon.com/dp/B07XTX5RJJ?tag=congnguyen-20",nameProduct: `BISSELL air320 Smart Air Purifier`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B07XTX5RJJ'},
 				B099VY4ZW3: {href: "https://amzn.to/3BoTo47",nameProduct: `iBUYPOWER Pro Gaming PC Computer `,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B099VY4ZW3'},
 				B01M0OO2IT: {href: "https://amzn.to/2XThR3L",nameProduct: `Klipsch Reference RSB-6 Sound Bar`,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B01M0OO2IT'},
 				B084RZSFCX: {href: "https://amzn.to/3pI76g8",nameProduct: `Shure AONIC 50 Noise Headphones `,slug: '',summary: ``,image: '',origin: 'https://www.amazon.com/dp/B084RZSFCX'},
